@@ -4,41 +4,13 @@
 
 ## This week I spent my time on
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 8 Contributions in the Year 2023
- > 
-> 📦 9.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning        1 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-🌆 Daytime       11 commits       ██████░░░░░░░░░░░░░░░░░░░   26.19 % 
-🌃 Evening       25 commits       ███████████████░░░░░░░░░░   59.52 % 
-🌙 Night          5 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday           5 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Tuesday          2 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Wednesday       13 commits       ███████░░░░░░░░░░░░░░░░░░   30.95 % 
-Thursday         8 commits       ████░░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Friday           0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday         2 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Sunday          12 commits       ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+🌞 Morning        1 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+🌆 Daytime       11 commits       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+🌃 Evening       26 commits       ███████████████░░░░░░░░░░   60.47 % 
+🌙 Night          5 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
 
 ```
 
@@ -46,8 +18,6 @@ Sunday          12 commits       ███████░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kamchatka
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -77,7 +47,7 @@ Go                       1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lukinism/lukinism/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/02/2023 09:26:31 UTC
+ Last Updated on 08/02/2023 09:40:30 UTC
 <!--END_SECTION:waka-->
 ___
 ## Contact with me:
