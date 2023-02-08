@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Инженер заменил порт Lightning в AirPods Pro на USB-C](https://habr.com/ru/post/715734/)
 - [Canon представила бюджетную беззеркальную камеру EOS R8](https://habr.com/ru/post/715718/)
 - [Исследователи разработали роботизированное устройство, помогающее людям с БАС поднимать руки](https://habr.com/ru/post/715662/)
 - [OnePlus представила свою первую механическую клавиатуру с фирменными переключателями](https://habr.com/ru/post/715648/)
 - [Mozilla разрабатывает браузер Firefox для iOS с движком Gecko вместо WebKit](https://habr.com/ru/post/715618/)
-- [Блогер собрал гигантскую механическую клавиатуру, потратив 14 тыс. долларов](https://habr.com/ru/post/715610/)
 <!-- BLOG-POST-LIST:END -->
