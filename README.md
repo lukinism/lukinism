@@ -7,10 +7,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning        1 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-🌆 Daytime       11 commits       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-🌃 Evening       26 commits       ███████████████░░░░░░░░░░   60.47 % 
-🌙 Night          5 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+🌞 Morning        1 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+🌆 Daytime       11 commits       ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+🌃 Evening       29 commits       ███████████████░░░░░░░░░░   63.04 % 
+🌙 Night          5 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
 
 ```
 
@@ -19,15 +19,6 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 
 ```
@@ -47,7 +38,7 @@ Go                       1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lukinism/lukinism/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/02/2023 09:40:30 UTC
+ Last Updated on 08/02/2023 09:46:21 UTC
 <!--END_SECTION:waka-->
 ___
 ## Contact with me:
