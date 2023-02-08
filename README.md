@@ -7,6 +7,6 @@ ___
 **tg: [@lukinism](https://t.me/lukinism)  
 gmail: lukinism69@gmail.com**
 
-# Blog posts
+## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
