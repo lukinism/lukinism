@@ -22,6 +22,5 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_EDITORS: "False"
-          SHOW_TIMELINE: "False"
           SHOW_LANGUAGE: "False"
           SHOW_LOC_CHART: "False"
