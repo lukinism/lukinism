@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [OnePlus представила свою первую механическую клавиатуру с фирменными переключателями](https://habr.com/ru/post/715648/)
 - [Mozilla разрабатывает браузер Firefox для iOS с движком Gecko вместо WebKit](https://habr.com/ru/post/715618/)
 - [Блогер собрал гигантскую механическую клавиатуру, потратив 14 тыс. долларов](https://habr.com/ru/post/715610/)
 - [«Яндекс» представил большое обновление «Браузера» для мобильных устройств](https://habr.com/ru/post/715502/)
 - [Apple продолжает работать над реверсивной зарядкой в iPhone](https://habr.com/ru/post/715418/)
-- [Разработчик запустил социальную сеть Dockhunt, позволяющую делиться своей док-панелью из macOS](https://habr.com/ru/post/715396/)
 <!-- BLOG-POST-LIST:END -->
