@@ -15,14 +15,6 @@
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -38,7 +30,7 @@ Go                       1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lukinism/lukinism/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/02/2023 09:46:21 UTC
+ Last Updated on 08/02/2023 09:48:24 UTC
 <!--END_SECTION:waka-->
 ___
 ## Contact with me:
