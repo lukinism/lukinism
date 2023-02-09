@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи iOS 16.3 жалуются на ошибку синхронизации с iCloud](https://habr.com/ru/post/715962/)
 - [После анонса ИИ-функций популярность мобильного приложения Microsoft Bing выросла в 10 раз](https://habr.com/ru/post/715742/)
 - [Google отключает функцию, позволяющую слушать подкасты в поисковой выдаче](https://habr.com/ru/post/715740/)
 - [Инженер заменил порт Lightning в AirPods Pro на USB-C](https://habr.com/ru/post/715734/)
 - [Canon представила бюджетную беззеркальную камеру EOS R8](https://habr.com/ru/post/715718/)
-- [Исследователи разработали роботизированное устройство, помогающее людям с БАС поднимать руки](https://habr.com/ru/post/715662/)
 <!-- BLOG-POST-LIST:END -->
