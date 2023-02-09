@@ -1,4 +1,4 @@
-## <div style="text-align: center;"> Hi there 👋 I'm Maxim</div>
+## <h1 align="center">Hi there 👋 I'm Maxim</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukinism)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukinism)](https://github.com/anuraghazra/github-readme-stats)
 
