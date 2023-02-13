@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft уволила команду, которая разрабатывала метавселенную для промышленности](https://habr.com/ru/post/716542/)
 - [В Raspberry Pi Pico W появилась поддержка Bluetooth](https://habr.com/ru/post/716508/)
 - [ChatGPT начали использовать даже в Пентагоне](https://habr.com/ru/post/716158/)
 - [В 1Password появится поддержка технологии Passkey](https://habr.com/ru/post/716120/)
 - [Пользователи iOS 16.3 жалуются на ошибку синхронизации с iCloud](https://habr.com/ru/post/715962/)
-- [После анонса ИИ-функций популярность мобильного приложения Microsoft Bing выросла в 10 раз](https://habr.com/ru/post/715742/)
 <!-- BLOG-POST-LIST:END -->
