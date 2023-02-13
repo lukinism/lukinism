@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В России создали умные кроссовки с вентиляцией, обогревом и массажем](https://habr.com/ru/post/716618/)
 - [Cloudflare запустила сервис Wildebeest, в котором можно настроить собственный сервер Mastodon за несколько минут](https://habr.com/ru/post/716570/)
 - [Microsoft уволила команду, которая разрабатывала метавселенную для промышленности](https://habr.com/ru/post/716542/)
 - [В Raspberry Pi Pico W появилась поддержка Bluetooth](https://habr.com/ru/post/716508/)
 - [ChatGPT начали использовать даже в Пентагоне](https://habr.com/ru/post/716158/)
-- [В 1Password появится поддержка технологии Passkey](https://habr.com/ru/post/716120/)
 <!-- BLOG-POST-LIST:END -->
