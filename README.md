@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз бенчмарка Geekbench 6](https://habr.com/ru/post/717012/)
 - [Глава Nvidia назвал ChatGPT одним из величайших достижений в области технологий и сравнил с выходом первого iPhone](https://habr.com/ru/post/716926/)
 - [Разработчик выпустил плагин Code GPT для VS Code, позволяющий использовать чат-бота ChatGPT во время работы над кодом](https://habr.com/ru/post/716906/)
 - [Apple выпустила iOS 16.3.1 с исправлением ошибок функции обнаружения аварий](https://habr.com/ru/post/716880/)
 - [Разработчик изготовил кольцо с экраном, на котором можно запустить Doom](https://habr.com/ru/post/716858/)
-- [Состоялся релиз САПР KiCad 7.0.0](https://habr.com/ru/post/716818/)
 <!-- BLOG-POST-LIST:END -->
