@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Хакеры атаковали IT-системы Королевской почты Великобритании и потребовали выкуп в $80 млн](https://habr.com/ru/post/717308/)
+- [The Wall Street Journal: в Россию продолжают импортироваться большие партии оборудования Cisco](https://habr.com/ru/post/717290/)
 - [Министерство юстиции США заявило, что John Deere должен позволить фермерам ремонтировать свои тракторы](https://habr.com/ru/post/717282/)
 - [Vipps просит антимонопольные органы Евросоюза заставить Apple открыть доступ к NFC в iPhone](https://habr.com/ru/post/717250/)
 - [Антимонопольные регуляторы EC проверят покупку Adobe стартапа Figma](https://habr.com/ru/post/717246/)
-- [TikTok тестирует торговую площадку в своём приложении](https://habr.com/ru/post/717240/)
-- [CEO крупных американских IT-компаний вызвали в суд по делу о цензуре в сговоре с правительством](https://habr.com/ru/post/717238/)
 <!-- BLOG-POST-LIST:END -->
