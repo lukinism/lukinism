@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
-- [Обновление Xbox позволяет управлять консолью с помощью пульта в приложении Google Home](https://habr.com/ru/post/717332/)
+- [Пользователи сообщают, что премиальные материнские платы Asus ROG Z690 подвержены коррозии](https://habr.com/ru/post/717366/)
+- [Появилась информация о бортовом компьютере Tesla HW4 на AMD с архитектурой RDNA2](https://habr.com/ru/post/717354/)
 - [Хакеры атаковали IT-системы Королевской почты Великобритании и потребовали выкуп в $80 млн](https://habr.com/ru/post/717308/)
 - [The Wall Street Journal: в Россию продолжают импортироваться большие партии оборудования Cisco](https://habr.com/ru/post/717290/)
 - [Министерство юстиции США заявило, что John Deere должен позволить фермерам ремонтировать свои тракторы](https://habr.com/ru/post/717282/)
-- [Vipps просит антимонопольные органы Евросоюза заставить Apple открыть доступ к NFC в iPhone](https://habr.com/ru/post/717250/)
 <!-- BLOG-POST-LIST:END -->
