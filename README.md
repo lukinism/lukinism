@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [CEO крупных американских IT-компаний вызвали в суд по делу о цензуре в сговоре с правительством](https://habr.com/ru/post/717238/)
 - [Blade Air Mobility и BETA Technologies провели первое испытание воздушного аэротакси в Нью-Йорке](https://habr.com/ru/post/717144/)
 - [Глава WhatsApp раскритиковал безопасность Telegram и призвал пользователей отказаться от мессенджера](https://habr.com/ru/post/717116/)
 - [GitHub Copilot стал доступен корпоративным пользователям](https://habr.com/ru/post/717068/)
 - [IKEA представила анализатор качества воздуха в помещении для умного дома](https://habr.com/ru/post/717026/)
-- [Состоялся релиз бенчмарка Geekbench 6](https://habr.com/ru/post/717012/)
 <!-- BLOG-POST-LIST:END -->
