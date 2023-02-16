@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Министерство юстиции США заявило, что John Deere должен позволить фермерам ремонтировать свои тракторы](https://habr.com/ru/post/717282/)
 - [Vipps просит антимонопольные органы Евросоюза заставить Apple открыть доступ к NFC в iPhone](https://habr.com/ru/post/717250/)
 - [Антимонопольные регуляторы EC проверят покупку Adobe стартапа Figma](https://habr.com/ru/post/717246/)
 - [TikTok тестирует торговую площадку в своём приложении](https://habr.com/ru/post/717240/)
 - [CEO крупных американских IT-компаний вызвали в суд по делу о цензуре в сговоре с правительством](https://habr.com/ru/post/717238/)
-- [Blade Air Mobility и BETA Technologies провели первое испытание воздушного аэротакси в Нью-Йорке](https://habr.com/ru/post/717144/)
 <!-- BLOG-POST-LIST:END -->
