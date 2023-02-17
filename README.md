@@ -35,9 +35,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Из-за финансовых проблем Twitter закрыла два офиса в Индии](https://habr.com/ru/post/717554/)
 - [Steam добавит поддержку задних кнопок-лепестков контроллера DualSense Edge](https://habr.com/ru/post/717552/)
 - [Trek представила семейные электрические велосипеды с местами для перевозки детей](https://habr.com/ru/post/717544/)
 - [Windows 11 стала доступна через Parallels Desktop для устройств на базе Apple Silicon](https://habr.com/ru/post/717534/)
 - [Вышла iOS 16.4 beta 1: печать свайпами на русском языке и новые уведомления в движке Webkit](https://habr.com/ru/post/717532/)
-- [Google разрешила пользователям редактировать свои интересы для показа рекламы](https://habr.com/ru/post/717386/)
 <!-- BLOG-POST-LIST:END -->
