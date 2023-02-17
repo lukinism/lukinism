@@ -35,9 +35,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Steam добавит поддержку задних кнопок-лепестков контроллера DualSense Edge](https://habr.com/ru/post/717552/)
+- [Trek представила семейные электрические велосипеды с местами для перевозки детей](https://habr.com/ru/post/717544/)
 - [Windows 11 стала доступна через Parallels Desktop для устройств на базе Apple Silicon](https://habr.com/ru/post/717534/)
 - [Вышла iOS 16.4 beta 1: печать свайпами на русском языке и новые уведомления в движке Webkit](https://habr.com/ru/post/717532/)
 - [Google разрешила пользователям редактировать свои интересы для показа рекламы](https://habr.com/ru/post/717386/)
-- [Пользователи сообщают, что премиальные материнские платы Asus ROG Z690 подвержены коррозии](https://habr.com/ru/post/717366/)
-- [Появилась информация о бортовом компьютере Tesla HW4 на AMD с архитектурой RDNA2](https://habr.com/ru/post/717354/)
 <!-- BLOG-POST-LIST:END -->
