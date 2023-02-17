@@ -35,7 +35,7 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11 стала доступна на устройствах на базе Apple Silicon через Parallels Desktop](https://habr.com/ru/post/717534/)
+- [Windows 11 стала доступна через Parallels Desktop для устройств на базе Apple Silicon](https://habr.com/ru/post/717534/)
 - [Вышла iOS 16.4 beta 1: печать свайпами на русском языке и новые уведомления в движке Webkit](https://habr.com/ru/post/717532/)
 - [Google разрешила пользователям редактировать свои интересы для показа рекламы](https://habr.com/ru/post/717386/)
 - [Пользователи сообщают, что премиальные материнские платы Asus ROG Z690 подвержены коррозии](https://habr.com/ru/post/717366/)
