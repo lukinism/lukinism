@@ -35,9 +35,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Roblox тестирует генеративные модели ИИ для создания виртуальных миров](https://habr.com/ru/post/718006/)
 - [Apple добавила кодек AV1 в бета-версию Safari, но ни одно устройство компании пока не умеет работать с ним](https://habr.com/ru/post/717664/)
 - [Из-за финансовых проблем Twitter закрыла два офиса в Индии](https://habr.com/ru/post/717554/)
 - [Steam добавит поддержку задних кнопок-лепестков контроллера DualSense Edge](https://habr.com/ru/post/717552/)
 - [Trek представила семейные электрические велосипеды с местами для перевозки детей](https://habr.com/ru/post/717544/)
-- [Windows 11 стала доступна через Parallels Desktop для устройств на базе Apple Silicon](https://habr.com/ru/post/717534/)
 <!-- BLOG-POST-LIST:END -->
