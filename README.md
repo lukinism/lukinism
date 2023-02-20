@@ -35,9 +35,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В конце 2022 года с помощью фишинга хакеры получили доступ к данным Activision Blizzard](https://habr.com/ru/post/718088/)
+- [Raspberry Pi представила отладочную плату для микроконтроллеров](https://habr.com/ru/post/718074/)
+- [ASRock представила карту расширения, позволяющую установить четыре SSD в один слот PCIe](https://habr.com/ru/post/718054/)
 - [Tesla начала тестировать лидары для грузовика Semi и прототипа Cybertruck](https://habr.com/ru/post/718030/)
 - [Roblox тестирует генеративные модели ИИ для создания виртуальных миров](https://habr.com/ru/post/718006/)
-- [Apple добавила кодек AV1 в бета-версию Safari, но ни одно устройство компании пока не умеет работать с ним](https://habr.com/ru/post/717664/)
-- [Из-за финансовых проблем Twitter закрыла два офиса в Индии](https://habr.com/ru/post/717554/)
-- [Steam добавит поддержку задних кнопок-лепестков контроллера DualSense Edge](https://habr.com/ru/post/717552/)
 <!-- BLOG-POST-LIST:END -->
