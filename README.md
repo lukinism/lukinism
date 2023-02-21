@@ -35,9 +35,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст изготовил контроллер для игры Hogwarts Legacy в виде волшебной палочки](https://habr.com/ru/post/718280/)
 - [Из-за ошибки несколько HomePod в одном доме отвечают хором, а не выбирают приоритетный источник](https://habr.com/ru/post/718246/)
 - [Разработчик представил программу, позволяющую закодировать файлы в видео и хранить их на YouTube](https://habr.com/ru/post/718224/)
 - [iPhone первого поколения в заводской упаковке продали на аукционе за 63 тыс. долларов](https://habr.com/ru/post/718216/)
 - [В конце 2022 года с помощью фишинга хакеры получили доступ к данным Activision Blizzard](https://habr.com/ru/post/718088/)
-- [Raspberry Pi представила отладочную плату для микроконтроллеров](https://habr.com/ru/post/718074/)
 <!-- BLOG-POST-LIST:END -->
