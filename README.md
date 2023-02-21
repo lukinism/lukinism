@@ -35,9 +35,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик представил программу, позволяющую закодировать файлы в видео и хранить их на YouTube](https://habr.com/ru/post/718224/)
 - [iPhone первого поколения в заводской упаковке продали на аукционе за 63 тыс. долларов](https://habr.com/ru/post/718216/)
 - [В конце 2022 года с помощью фишинга хакеры получили доступ к данным Activision Blizzard](https://habr.com/ru/post/718088/)
 - [Raspberry Pi представила отладочную плату для микроконтроллеров](https://habr.com/ru/post/718074/)
 - [ASRock представила карту расширения, позволяющую установить четыре SSD в один слот PCIe](https://habr.com/ru/post/718054/)
-- [Tesla начала тестировать лидары для грузовика Semi и прототипа Cybertruck](https://habr.com/ru/post/718030/)
 <!-- BLOG-POST-LIST:END -->
