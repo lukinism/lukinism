@@ -35,9 +35,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple запатентовала меняющий цвет ремешок для часов Apple Watch](https://habr.com/ru/post/718586/)
 - [Valve обновила античит Dota 2 и после этого навсегда заблокировала 40 тыс. пользователей](https://habr.com/ru/post/718566/)
 - [Sci-Fi-журнал Clarkesworld приостанавливает выпуск материалов из-за потока историй, написанных ИИ](https://habr.com/ru/post/718558/)
 - [Bethesda представила мобильную игру по вселенной DOOM](https://habr.com/ru/post/718520/)
 - [Классическую версию Angry Birds 23 февраля удалят из Google Play](https://habr.com/ru/post/718482/)
-- [В магазинах мобильных приложений появилось большое количество мошеннических приложений для двухфакторной аутентификации](https://habr.com/ru/post/718404/)
 <!-- BLOG-POST-LIST:END -->
