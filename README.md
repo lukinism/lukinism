@@ -35,9 +35,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bethesda представила мобильную игру по вселенной DOOM](https://habr.com/ru/post/718520/)
 - [Классическую версию Angry Birds 23 февраля удалят из Google Play](https://habr.com/ru/post/718482/)
 - [В магазинах мобильных приложений появилось большое количество мошеннических приложений для двухфакторной аутентификации](https://habr.com/ru/post/718404/)
 - [Энтузиаст изготовил контроллер для игры Hogwarts Legacy в виде волшебной палочки](https://habr.com/ru/post/718280/)
 - [Из-за ошибки несколько HomePod в одном доме отвечают хором, а не выбирают приоритетный источник](https://habr.com/ru/post/718246/)
-- [Разработчик представил программу, позволяющую закодировать файлы в видео и хранить их на YouTube](https://habr.com/ru/post/718224/)
 <!-- BLOG-POST-LIST:END -->
