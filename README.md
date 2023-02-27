@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Генеральный директор Signal: мы не будем участвовать в законе Великобритании об ослаблении шифрования](https://habr.com/ru/post/719144/)
+- [В Microsoft Power Toys для Windows 10 и 11 появится утилита «Вставить без форматирования»](https://habr.com/ru/post/719134/)
 - [В США обнаружили первую станцию Tesla Supercharger с опцией для зарядки электромобилей сторонних производителей](https://habr.com/ru/post/719088/)
 - [С помощью AirTag журналисты выяснили, что американская компания Dow Inc нарушает обязательства по переработке изделий](https://habr.com/ru/post/719080/)
 - [Владелец смартфона Google Pixel 7 Pro нашёл видеоролик на YouTube, заставляющий устройство перезагружаться](https://habr.com/ru/post/719066/)
-- [Apple запатентовала меняющий цвет ремешок для часов Apple Watch](https://habr.com/ru/post/718586/)
-- [Valve обновила античит Dota 2 и после этого навсегда заблокировала 40 тыс. пользователей](https://habr.com/ru/post/718566/)
 <!-- BLOG-POST-LIST:END -->
