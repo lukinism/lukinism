@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ford запатентовала систему для автоматической конфискации автомобилей](https://habr.com/ru/post/719480/)
 - [В LastPass сообщили, что в прошлом году хакеры взломали сервис с помощью компьютера DevOps-инженера](https://habr.com/ru/post/719458/)
 - [В Канаде запретили использовать TikTok на мобильных устройствах правительства](https://habr.com/ru/post/719422/)
 - [Основатель проекта Puppy Linux выпустил обновление экспериментального дистрибутива Linux EasyOS 5.0](https://habr.com/ru/post/719374/)
 - [Разработчики KDE Plasma переводят проект на фреймворк Qt 6](https://habr.com/ru/post/719362/)
-- [Инженер разработал толстовку Camera Shy Hoodie, скрывающую владельца от камер ночного видения](https://habr.com/ru/post/719328/)
 <!-- BLOG-POST-LIST:END -->
