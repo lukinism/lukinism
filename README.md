@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В LastPass сообщили, что в прошлом году хакеры взломали сервис с помощью компьютера DevOps-инженера](https://habr.com/ru/post/719458/)
+- [В Канаде запретили использовать TikTok на мобильных устройствах правительства](https://habr.com/ru/post/719422/)
 - [Основатель проекта Puppy Linux выпустил обновление экспериментального дистрибутива Linux EasyOS 5.0](https://habr.com/ru/post/719374/)
 - [Разработчики KDE Plasma переводят проект на фреймворк Qt 6](https://habr.com/ru/post/719362/)
 - [Инженер разработал толстовку Camera Shy Hoodie, скрывающую владельца от камер ночного видения](https://habr.com/ru/post/719328/)
-- [Генеральный директор Signal: мы не будем участвовать в законе Великобритании об ослаблении шифрования](https://habr.com/ru/post/719144/)
-- [В Microsoft Power Toys для Windows 10 и 11 появится утилита «Вставить без форматирования»](https://habr.com/ru/post/719134/)
 <!-- BLOG-POST-LIST:END -->
