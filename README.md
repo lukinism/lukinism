@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики KDE Plasma переводят проект на фреймворк Qt 6](https://habr.com/ru/post/719362/)
 - [Инженер разработал толстовку Camera Shy Hoodie, скрывающую владельца от камер ночного видения](https://habr.com/ru/post/719328/)
 - [Генеральный директор Signal: мы не будем участвовать в законе Великобритании об ослаблении шифрования](https://habr.com/ru/post/719144/)
 - [В Microsoft Power Toys для Windows 10 и 11 появится утилита «Вставить без форматирования»](https://habr.com/ru/post/719134/)
 - [В США обнаружили первую станцию Tesla Supercharger с опцией для зарядки электромобилей сторонних производителей](https://habr.com/ru/post/719088/)
-- [С помощью AirTag журналисты выяснили, что американская компания Dow Inc нарушает обязательства по переработке изделий](https://habr.com/ru/post/719080/)
 <!-- BLOG-POST-LIST:END -->
