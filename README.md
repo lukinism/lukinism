@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В Telegram для macOS появились настройки энергосбережения, позволяющие отключить анимации](https://habr.com/ru/post/719736/)
+- [Qualcomm совместно с Thales представила первую в мире карту iSIM](https://habr.com/ru/post/719716/)
 - [На продажу выставят крупнейшую коллекцию раритетных компьютеров Apple](https://habr.com/ru/post/719662/)
 - [В Google Pixel Watch появится функция обнаружения падений пользователя](https://habr.com/ru/post/719656/)
 - [Ford запатентовала систему для автоматической конфискации автомобилей](https://habr.com/ru/post/719480/)
-- [В LastPass сообщили, что в прошлом году хакеры взломали сервис с помощью компьютера DevOps-инженера](https://habr.com/ru/post/719458/)
-- [В Канаде запретили использовать TikTok на мобильных устройствах правительства](https://habr.com/ru/post/719422/)
 <!-- BLOG-POST-LIST:END -->
