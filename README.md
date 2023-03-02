@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tesla показала обновлённый прототип Cybertruck на мероприятии для инвесторов](https://habr.com/ru/post/719936/)
 - [«Яндекс» представил расширенную версию «Яндекс Браузера» для организаций](https://habr.com/ru/post/719910/)
 - [В Telegram для macOS появились настройки энергосбережения, позволяющие отключить анимации](https://habr.com/ru/post/719736/)
 - [Qualcomm совместно с Thales представила первую в мире карту iSIM](https://habr.com/ru/post/719716/)
 - [На продажу выставят крупнейшую коллекцию раритетных компьютеров Apple](https://habr.com/ru/post/719662/)
-- [В Google Pixel Watch появится функция обнаружения падений пользователя](https://habr.com/ru/post/719656/)
 <!-- BLOG-POST-LIST:END -->
