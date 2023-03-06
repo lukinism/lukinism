@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [DJI закрыла проект своей системы обнаружения дронов AeroScope](https://habr.com/ru/post/720682/)
 - [Исследователи научились перехватывать сигнал дронов DJI и получать информацию о местоположении пилота](https://habr.com/ru/post/720088/)
 - [Microsoft выпустила обновление Power Toys с утилитой для быстрого перемещения по рабочему столу](https://habr.com/ru/post/719992/)
 - [Tesla показала обновлённый прототип Cybertruck на мероприятии для инвесторов](https://habr.com/ru/post/719936/)
 - [«Яндекс» представил расширенную версию «Яндекс Браузера» для организаций](https://habr.com/ru/post/719910/)
-- [В Telegram для macOS появились настройки энергосбережения, позволяющие отключить анимации](https://habr.com/ru/post/719736/)
 <!-- BLOG-POST-LIST:END -->
