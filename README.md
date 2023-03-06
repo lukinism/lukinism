@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft начала тестирование улучшенного микшера громкости в Windows 11](https://habr.com/ru/post/720768/)
+- [Apple обогнала Xiaomi по доле рынка смартфонов в Азии в феврале 2023 года, уступив только Samsung](https://habr.com/ru/post/720752/)
 - [75% компаний не выполняют требования закона о персональных данных](https://habr.com/ru/post/720718/)
 - [Некоторые разработчики JPMorgan Chase должны уведомлять HR-службу об уходе из компании за 6 месяцев](https://habr.com/ru/post/720700/)
 - [DJI закрыла проект своей системы обнаружения дронов AeroScope](https://habr.com/ru/post/720682/)
-- [Исследователи научились перехватывать сигнал дронов DJI и получать информацию о местоположении пилота](https://habr.com/ru/post/720088/)
-- [Microsoft выпустила обновление Power Toys с утилитой для быстрого перемещения по рабочему столу](https://habr.com/ru/post/719992/)
 <!-- BLOG-POST-LIST:END -->
