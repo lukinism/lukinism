@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Глава ИИ-проекта Google Bard: чат-бот компании не предназначен для поиска информации](https://habr.com/ru/post/720990/)
+- [Amazon готовится запустить свой магазин с NFT](https://habr.com/ru/post/720968/)
 - [Функция платежей Apple с iPhone на iPhone теперь доступна большему количеству компаний](https://habr.com/ru/post/720944/)
 - [Австрийский суд обязал Sony выплатить компенсацию игрокам футбольного симулятора FIFA из-за механики лутбоксов](https://habr.com/ru/post/720934/)
 - [Microsoft сделала приложение Outlook для macOS бесплатным в Mac App Store](https://habr.com/ru/post/720920/)
-- [СМИ: многие разработчики положительно отзываются о чат-ботах и рады появлению инструмента, облегчающему рутину](https://habr.com/ru/post/720838/)
-- [В первую десятку мартовского рейтинга языков программирования TIOBE попал Go](https://habr.com/ru/post/720826/)
 <!-- BLOG-POST-LIST:END -->
