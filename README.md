@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Функция платежей Apple с iPhone на iPhone теперь доступна большему количеству компаний](https://habr.com/ru/post/720944/)
 - [Австрийский суд обязал Sony выплатить компенсацию игрокам футбольного симулятора FIFA из-за механики лутбоксов](https://habr.com/ru/post/720934/)
 - [Microsoft сделала приложение Outlook для macOS бесплатным в Mac App Store](https://habr.com/ru/post/720920/)
 - [СМИ: многие разработчики положительно отзываются о чат-ботах и рады появлению инструмента, облегчающему рутину](https://habr.com/ru/post/720838/)
 - [В первую десятку мартовского рейтинга языков программирования TIOBE попал Go](https://habr.com/ru/post/720826/)
-- [Microsoft начала тестирование улучшенного микшера громкости в Windows 11](https://habr.com/ru/post/720768/)
 <!-- BLOG-POST-LIST:END -->
