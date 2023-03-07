@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft сделала приложение Outlook для macOS бесплатным в Mac App Store](https://habr.com/ru/post/720920/)
 - [СМИ: многие разработчики положительно отзываются о чат-ботах и рады появлению инструмента, облегчающему рутину](https://habr.com/ru/post/720838/)
 - [В первую десятку мартовского рейтинга языков программирования TIOBE попал Go](https://habr.com/ru/post/720826/)
 - [Microsoft начала тестирование улучшенного микшера громкости в Windows 11](https://habr.com/ru/post/720768/)
 - [Apple обогнала Xiaomi по доле рынка смартфонов в Азии в феврале 2023 года, уступив только Samsung](https://habr.com/ru/post/720752/)
-- [75% компаний не выполняют требования закона о персональных данных](https://habr.com/ru/post/720718/)
 <!-- BLOG-POST-LIST:END -->
