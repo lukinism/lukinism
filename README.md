@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Для SSD PlayStation 5 выпустили систему охлаждения, использующую штатный вентилятор](https://habr.com/ru/post/721298/)
 - [Полиция Великобритании обнаружила у подростка электрошокер, замаскированный под iPhone](https://habr.com/ru/post/721280/)
 - [Spotify представила обновление домашней страницы приложения с лентой рекомендаций в стиле TikTok](https://habr.com/ru/post/721266/)
 - [Apple Watch получили доступ к чат-боту OpenAI через приложение watchGPT](https://habr.com/ru/post/721250/)
 - [Kensington представила защитный экран для MacBook и Mac, предотвращающий визуальную утечку информации](https://habr.com/ru/post/721218/)
-- [TikTok представила платный контент с видео продолжительностью до 20 минут](https://habr.com/ru/post/721138/)
 <!-- BLOG-POST-LIST:END -->
