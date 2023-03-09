@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
-- [Kensigton представила защитный экран для MacBook и Mac, предотвращающий визуальную утечку информации](https://habr.com/ru/post/721218/)
+- [Spotify представила обновление домашней страницы приложения с лентой рекомендаций в стиле TikTok](https://habr.com/ru/post/721266/)
+- [Apple Watch получили доступ к чат-боту OpenAI через приложение watchGPT](https://habr.com/ru/post/721250/)
+- [Kensington представила защитный экран для MacBook и Mac, предотвращающий визуальную утечку информации](https://habr.com/ru/post/721218/)
 - [TikTok представила платный контент с видео продолжительностью до 20 минут](https://habr.com/ru/post/721138/)
 - [Глава ИИ-проекта Google Bard: чат-бот компании не предназначен для поиска информации](https://habr.com/ru/post/720990/)
-- [Amazon готовится запустить свой магазин с NFT](https://habr.com/ru/post/720968/)
-- [Функция платежей Apple с iPhone на iPhone теперь доступна большему количеству компаний](https://habr.com/ru/post/720944/)
 <!-- BLOG-POST-LIST:END -->
