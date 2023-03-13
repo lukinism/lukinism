@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Датский стартап Varme представил настольный обогреватель для рук пользователей ПК](https://habr.com/ru/post/721922/)
 - [Пользователи Twitter жалуются, что видят твиты от аккаунтов, на которые они не подписаны](https://habr.com/ru/post/721476/)
 - [ChatGPT стал доступен для корпоративных клиентов в облачной системе Microsoft Azure OpenAI](https://habr.com/ru/post/721470/)
 - [В Microsoft Word появилось штатное сочетание клавиш для вставки текста без форматирования](https://habr.com/ru/post/721454/)
 - [С 13 марта GitHub сделает двухфакторную аутентификацию обязательной для активных разработчиков](https://habr.com/ru/post/721448/)
-- [Discord начал тестирование чат-бота Clyde на базе ChatGPT](https://habr.com/ru/post/721446/)
 <!-- BLOG-POST-LIST:END -->
