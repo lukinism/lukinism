@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Чат-бот Bing работает на платформе GPT-4](https://habr.com/ru/post/722482/)
 - [Amazon показала терминалы спутникового Интернета Kuiper](https://habr.com/ru/post/722392/)
 - [Google анонсировала ИИ-инструменты для Gmail, «Документов», «Таблиц» и «Презентаций»](https://habr.com/ru/post/722386/)
 - [Silicon Labs представила миниатюрный чип, который можно использовать для изготовления умных медицинских устройств](https://habr.com/ru/post/722328/)
 - [PornHub прекратила поддержку приложения на Android](https://habr.com/ru/post/722218/)
-- [Исследование: 69% владельцев Apple Watch спят менее 7 часов в сутки](https://habr.com/ru/post/722198/)
 <!-- BLOG-POST-LIST:END -->
