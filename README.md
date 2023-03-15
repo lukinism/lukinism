@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub опубликовала репозиторий с руководствами по управлению продуктами с открытым исходным кодом](https://habr.com/ru/post/722652/)
 - [Финский изобретатель представил электрический самокат для снега](https://habr.com/ru/post/722552/)
 - [MSI готовит серию материнских плат с разъёмами на задней панели](https://habr.com/ru/post/722544/)
 - [Firefox распространяет защиту от отслеживания на Android](https://habr.com/ru/post/722528/)
 - [Из-за сбоя Reddit не работал более 5 часов](https://habr.com/ru/post/722510/)
-- [Чат-бот Bing работает на платформе GPT-4](https://habr.com/ru/post/722482/)
 <!-- BLOG-POST-LIST:END -->
