@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [GPT-4 написал простую игру на JavaScript, в которой «можно грабить караваны»](https://habr.com/ru/post/722742/)
+- [Dreamworks открыла исходный код системы рендеринга MoonRay](https://habr.com/ru/post/722726/)
 - [Microsoft начала тестировать Minecraft для Chromebook](https://habr.com/ru/post/722704/)
 - [GitHub опубликовала репозиторий с руководствами по управлению продуктами с открытым исходным кодом](https://habr.com/ru/post/722652/)
 - [Финский изобретатель представил электрический самокат для снега](https://habr.com/ru/post/722552/)
-- [MSI готовит серию материнских плат с разъёмами на задней панели](https://habr.com/ru/post/722544/)
-- [Firefox распространяет защиту от отслеживания на Android](https://habr.com/ru/post/722528/)
 <!-- BLOG-POST-LIST:END -->
