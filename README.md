@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Приложение CardioBot теперь может измерять уровень стресса с помощью данных Apple Watch](https://habr.com/ru/post/722956/)
 - [Великобритания планирует запретить TikTok на правительственных устройствах](https://habr.com/ru/post/722950/)
 - [Гендиректор Match Group рассказал, что за три месяца потратил $50 тыс. в игре Clash of Clans](https://habr.com/ru/post/722762/)
 - [GPT-4 написал простую игру на JavaScript, в которой «можно грабить караваны»](https://habr.com/ru/post/722742/)
 - [Dreamworks открыла исходный код системы рендеринга MoonRay](https://habr.com/ru/post/722726/)
-- [Microsoft начала тестировать Minecraft для Chromebook](https://habr.com/ru/post/722704/)
 <!-- BLOG-POST-LIST:END -->
