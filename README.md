@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Гендиректор Match Group рассказал, что за три месяца потратил $50 тыс. в игре Clash of Clans](https://habr.com/ru/post/722762/)
 - [GPT-4 написал простую игру на JavaScript, в которой «можно грабить караваны»](https://habr.com/ru/post/722742/)
 - [Dreamworks открыла исходный код системы рендеринга MoonRay](https://habr.com/ru/post/722726/)
 - [Microsoft начала тестировать Minecraft для Chromebook](https://habr.com/ru/post/722704/)
 - [GitHub опубликовала репозиторий с руководствами по управлению продуктами с открытым исходным кодом](https://habr.com/ru/post/722652/)
-- [Финский изобретатель представил электрический самокат для снега](https://habr.com/ru/post/722552/)
 <!-- BLOG-POST-LIST:END -->
