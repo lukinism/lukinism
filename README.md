@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple тестирует Siri на базе генеративного ИИ, проект носит кодовое название Bobcat](https://habr.com/ru/post/723052/)
+- [Microsoft анонсировала Microsoft 365 Copilot — офисного чат-бота на базе GPT-4](https://habr.com/ru/post/723038/)
 - [Обновление MidJourney: фотореалистичные изображения, улучшенная детализация и динамический диапазон](https://habr.com/ru/post/722992/)
 - [Приложение CardioBot теперь может измерять уровень стресса с помощью данных Apple Watch](https://habr.com/ru/post/722956/)
 - [Великобритания планирует запретить TikTok на правительственных устройствах](https://habr.com/ru/post/722950/)
-- [Гендиректор Match Group рассказал, что за три месяца потратил $50 тыс. в игре Clash of Clans](https://habr.com/ru/post/722762/)
-- [GPT-4 написал простую игру на JavaScript, в которой «можно грабить караваны»](https://habr.com/ru/post/722742/)
 <!-- BLOG-POST-LIST:END -->
