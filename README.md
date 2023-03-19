@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Из-за санкций США Huawei заменила 13 тыс. компонентов в своих устройствах](https://habr.com/ru/post/723356/)
 - [Valve зарегистрировала торговые знаки CS2 и Counter Strike](https://habr.com/ru/post/723354/)
 - [Языковая модель GPT-4 написала полноценное мобильное приложение на SwiftUI](https://habr.com/ru/post/723280/)
 - [Пользователи Twitter теперь могут видеть, сколько людей добавило их твиты в закладки](https://habr.com/ru/post/723176/)
 - [Китайская компания представила прототип летающего автомобиля Xiaopeng](https://habr.com/ru/post/723164/)
-- [Apple тестирует Siri на базе генеративного ИИ, проект носит кодовое название Bobcat](https://habr.com/ru/post/723052/)
 <!-- BLOG-POST-LIST:END -->
