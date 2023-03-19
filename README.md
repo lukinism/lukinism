@@ -3,13 +3,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukinism)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukinism)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+🌆 Daytime                21 commits          ████████░░░░░░░░░░░░░░░░░   31.34 % 
+🌃 Evening                38 commits          ██████████████░░░░░░░░░░░   56.72 % 
+🌙 Night                  7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
 ```
 
 
@@ -25,7 +25,7 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 18/03/2023 18:38:30 UTC
+ Last Updated on 19/03/2023 18:38:42 UTC
 <!--END_SECTION:waka-->
 ___
 ## Contact with me:
