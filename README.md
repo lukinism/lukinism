@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В Discord появились цветовые темы, доступные за 10 долларов в месяц](https://habr.com/ru/post/723466/)
 - [Фирменное приложение Tesla теперь показывает, какая ёмкость аккумулятора утрачена из-за мороза](https://habr.com/ru/post/723396/)
 - [Китайский стартап представил портативную консоль Retroid Pocket Flip с дизайном в духе Nintendo DS](https://habr.com/ru/post/723382/)
 - [Администрация президента США потребовала от китайских владельцев TikTok продать свои доли](https://habr.com/ru/post/723372/)
 - [MaxSun анонсировала серию видеокарт с пятью вентиляторами](https://habr.com/ru/post/723366/)
-- [Из-за санкций США Huawei заменила 13 тыс. компонентов в своих устройствах](https://habr.com/ru/post/723356/)
 <!-- BLOG-POST-LIST:END -->
