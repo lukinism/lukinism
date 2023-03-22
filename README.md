@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple готовится к запуску сервиса Apple Pay в Южной Корее](https://habr.com/ru/post/723968/)
+- [Instagram** начал размещать рекламу в результатах поиска](https://habr.com/ru/post/723962/)
 - [Обновление KB5023706 для Windows 11 замедляет работу SSD в ПК](https://habr.com/ru/post/723958/)
-- [Классическая мобильна игра Subway Surfers достигла 4 млрд загрузок по всему миру](https://habr.com/ru/post/723956/)
+- [Классическая мобильная игра Subway Surfers достигла 4 млрд загрузок по всему миру](https://habr.com/ru/post/723956/)
 - [TikTok запретила дипфейки в обновлении правил платформы](https://habr.com/ru/post/723886/)
-- [Twitter тестирует процесс проверки для подписчиков Blue по удостоверению личности](https://habr.com/ru/post/723880/)
-- [TikTok сообщила о 150 млн активных пользователей в месяц в США](https://habr.com/ru/post/723766/)
 <!-- BLOG-POST-LIST:END -->
