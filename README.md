@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Беспроводные контроллеры 8BitDo получили поддержку устройств Apple](https://habr.com/ru/post/724104/)
 - [Энтузиаст собрал самую большую Nintendo 3DS в мире](https://habr.com/ru/post/723986/)
 - [Apple готовится к запуску сервиса Apple Pay в Южной Корее](https://habr.com/ru/post/723968/)
 - [Instagram** начал размещать рекламу в результатах поиска](https://habr.com/ru/post/723962/)
 - [Обновление KB5023706 для Windows 11 замедляет работу SSD в ПК](https://habr.com/ru/post/723958/)
-- [Классическая мобильная игра Subway Surfers достигла 4 млрд загрузок по всему миру](https://habr.com/ru/post/723956/)
 <!-- BLOG-POST-LIST:END -->
