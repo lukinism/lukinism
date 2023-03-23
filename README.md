@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Как делают погоду в «Яндексе»](https://habr.com/ru/post/724242/)
 - [Atari покупает студию Nightdive Studios](https://habr.com/ru/post/724230/)
 - [Владельцы видеокарт с объёмом памяти менее 4 ГБ больше не могут играть в Halo Infinite](https://habr.com/ru/post/724226/)
 - [Mozilla создала стартап Mozilla.ai для разработки открытой и безопасной системы искусственного интеллекта](https://habr.com/ru/post/724216/)
 - [Дизайнерская платформа Canva получила масштабное обновление с добавлением ИИ и новых функций рабочего пространства](https://habr.com/ru/post/724204/)
-- [Valve представила Counter-Strike 2](https://habr.com/ru/post/724156/)
 <!-- BLOG-POST-LIST:END -->
