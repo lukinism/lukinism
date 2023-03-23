@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Дизайнерская платформа Canva получила масштабное обновление с добавлением ИИ и новых функций рабочего пространства](https://habr.com/ru/post/724204/)
 - [Valve представила Counter-Strike 2](https://habr.com/ru/post/724156/)
 - [Пользователи Apple Music жалуются, что видят чужие плейлисты в списке избранного](https://habr.com/ru/post/724128/)
 - [Беспроводные контроллеры 8BitDo получили поддержку устройств Apple](https://habr.com/ru/post/724104/)
 - [Энтузиаст собрал самую большую Nintendo 3DS в мире](https://habr.com/ru/post/723986/)
-- [Apple готовится к запуску сервиса Apple Pay в Южной Корее](https://habr.com/ru/post/723968/)
 <!-- BLOG-POST-LIST:END -->
