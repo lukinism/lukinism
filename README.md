@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Геймерска беговая платформа Virtuix Omni One поступит в продажу спустя три года после анонса](https://habr.com/ru/post/724456/)
 - [Tesla выпустила фирменную беспроводную зарядку для смартфонов](https://habr.com/ru/post/724416/)
 - [Метка AirTag помогла полиции Чикаго задержать неудачливого автоугонщика](https://habr.com/ru/post/724406/)
 - [Как делают погоду в «Яндексе»](https://habr.com/ru/post/724242/)
 - [Atari покупает студию Nightdive Studios](https://habr.com/ru/post/724230/)
-- [Владельцы видеокарт с объёмом памяти менее 4 ГБ больше не могут играть в Halo Infinite](https://habr.com/ru/post/724226/)
 <!-- BLOG-POST-LIST:END -->
