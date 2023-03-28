@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз iOS 16.4](https://habr.com/ru/post/725436/)
 - [Philips откладывает переход своих устройств для умного дома на протокол Matter](https://habr.com/ru/post/725354/)
 - [Эмулятор Nintendo GameCube и Wii Dolphin выйдет в Steam с поддержкой Steam Deck](https://habr.com/ru/post/725300/)
 - [Uber Eats закрывает тысячи виртуальных ресторанов, чтобы сделать приложение менее загруженным](https://habr.com/ru/post/725268/)
 - [Исследование Европола: злоумышленники могут использовать ChatGPT для мошенничества и кибератак](https://habr.com/ru/post/725252/)
-- [Zoom представила опцию пересказа пропущенных встреч и генерацию ответов на основе ИИ](https://habr.com/ru/post/725228/)
 <!-- BLOG-POST-LIST:END -->
