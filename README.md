@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple 5 июня проведёт презентацию WWDC 2023](https://habr.com/ru/post/725740/)
 - [Denuvo выпустила бесплатную брошюру о вреде игровых эмуляторов для разработчиков игр](https://habr.com/ru/post/725738/)
 - [Студия бывшего разработчика Kerbal Space Program анонсировала симулятор сборки радиоуправляемых моделей](https://habr.com/ru/post/725614/)
 - [Apple начнёт принимать для публикации приложения, собранные в Xcode не ниже 14 версии](https://habr.com/ru/post/725594/)
 - [AutoCAD для macOS получил нативную поддержку процессоров Apple Silicon](https://habr.com/ru/post/725572/)
-- [Apple запустила сервис Pay Later](https://habr.com/ru/post/725442/)
 <!-- BLOG-POST-LIST:END -->
