@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Студия бывшего разработчика Kerbal Space Program анонсировала симулятор сборки радиоуправляемых моделей](https://habr.com/ru/post/725614/)
 - [Apple начнёт принимать для публикации приложения, собранные в Xcode не ниже 14 версии](https://habr.com/ru/post/725594/)
 - [AutoCAD для macOS получил нативную поддержку процессоров Apple Silicon](https://habr.com/ru/post/725572/)
 - [Apple запустила сервис Pay Later](https://habr.com/ru/post/725442/)
 - [Состоялся релиз iOS 16.4](https://habr.com/ru/post/725436/)
-- [Philips откладывает переход своих устройств для умного дома на протокол Matter](https://habr.com/ru/post/725354/)
 <!-- BLOG-POST-LIST:END -->
