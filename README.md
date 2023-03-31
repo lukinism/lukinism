@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Swift 5.8](https://habr.com/ru/post/726088/)
 - [Состоялся релиз Xcode 14.3 с SDK для iOS 16.4 и macOS 13.3](https://habr.com/ru/post/726066/)
 - [GitHub представила плагин GitHub Actions для Visual Studio Code](https://habr.com/ru/post/726042/)
 - [В PowerToys добавят утилиту Registry Preview для просмотра и редактирования файлов реестра](https://habr.com/ru/post/726038/)
 - [Apple всё ещё надеется выпустить станцию беспроводной зарядки AirPower](https://habr.com/ru/post/725886/)
-- [Twitter обновила условия доступа сторонних разработчиков к API](https://habr.com/ru/post/725860/)
 <!-- BLOG-POST-LIST:END -->
