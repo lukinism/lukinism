@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub представила плагин GitHub Actions для Visual Studio Code](https://habr.com/ru/post/726042/)
+- [В PowerToys добавят утилиту Registry Preview для просмотра и редактирования файлов реестра](https://habr.com/ru/post/726038/)
 - [Apple всё ещё надеется выпустить станцию беспроводной зарядки AirPower](https://habr.com/ru/post/725886/)
 - [Twitter обновила условия доступа сторонних разработчиков к API](https://habr.com/ru/post/725860/)
 - [В США растут продажи обычных кнопочных телефонов из-за того, что зумеры пытаются ограничить экранное время](https://habr.com/ru/post/725840/)
-- [Правительство Великобритании призывает регулирующие органы разработать правила для ИИ](https://habr.com/ru/post/725828/)
-- [Apple 5 июня проведёт презентацию WWDC 2023](https://habr.com/ru/post/725740/)
 <!-- BLOG-POST-LIST:END -->
