@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики представили проект Folia, добавляющий многопоточность в Minecraft-серверы](https://habr.com/ru/post/726664/)
 - [Вышел фреймворк Slint, предназначенный для разработки кроссплатформенных настольных приложений](https://habr.com/ru/post/726634/)
 - [Состоялся релиз фреймворка Qt 6.5](https://habr.com/ru/post/726618/)
 - [JetBrains выпустила обновление IDE для автоматизации тестирования Aqua](https://habr.com/ru/post/726560/)
 - [Вышло обновление WebStorm 2023.1](https://habr.com/ru/post/726542/)
-- [Вышел Swift 5.8](https://habr.com/ru/post/726088/)
 <!-- BLOG-POST-LIST:END -->
