@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
-- [Google представила API Google Code Scanner, позволяющее сканировать QR-коды без разрешения от камеры устройства](https://habr.com/ru/post/726840/)
-- [Разработчики представили проект Folia, добавляющий многопоточность в Minecraft-серверы](https://habr.com/ru/post/726664/)
-- [Вышел фреймворк Slint, предназначенный для разработки кроссплатформенных настольных приложений](https://habr.com/ru/post/726634/)
-- [Состоялся релиз фреймворка Qt 6.5](https://habr.com/ru/post/726618/)
-- [JetBrains выпустила обновление IDE для автоматизации тестирования Aqua](https://habr.com/ru/post/726560/)
+- [Состоялся релиз среды разработки GoLand 2023.1](https://habr.com/ru/news/726884/)
+- [Google представила API Google Code Scanner, позволяющее сканировать QR-коды без разрешения от камеры устройства](https://habr.com/ru/news/726840/)
+- [Разработчики представили проект Folia, добавляющий многопоточность в Minecraft-серверы](https://habr.com/ru/news/726664/)
+- [Вышел фреймворк Slint, предназначенный для разработки кроссплатформенных настольных приложений](https://habr.com/ru/news/726634/)
+- [Состоялся релиз фреймворка Qt 6.5](https://habr.com/ru/news/726618/)
 <!-- BLOG-POST-LIST:END -->
