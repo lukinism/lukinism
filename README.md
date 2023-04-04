@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Приложение «Погода» от Apple перестало показывать данные по всему миру](https://habr.com/ru/news/726908/)
 - [JetBrains выпустила Kotlin 1.8.20](https://habr.com/ru/news/726902/)
 - [Состоялся релиз среды разработки GoLand 2023.1](https://habr.com/ru/news/726884/)
 - [Google представила API Google Code Scanner, позволяющее сканировать QR-коды без разрешения от камеры устройства](https://habr.com/ru/news/726840/)
 - [Разработчики представили проект Folia, добавляющий многопоточность в Minecraft-серверы](https://habr.com/ru/news/726664/)
-- [Вышел фреймворк Slint, предназначенный для разработки кроссплатформенных настольных приложений](https://habr.com/ru/news/726634/)
 <!-- BLOG-POST-LIST:END -->
