@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Инсайдеры: в ближайшее время Apple выпустит iOS 16.4.1 с исправлением «Погоды» и работы Wi-Fi](https://habr.com/ru/news/727264/)
 - [Вышел Google Chrome 112](https://habr.com/ru/news/727258/)
 - [Solder Party выпустила комплект для подключения клавиатуры от BlackBerry к ПК](https://habr.com/ru/news/726920/)
 - [Приложение «Погода» от Apple перестало показывать данные по всему миру](https://habr.com/ru/news/726908/)
 - [JetBrains выпустила Kotlin 1.8.20](https://habr.com/ru/news/726902/)
-- [Состоялся релиз среды разработки GoLand 2023.1](https://habr.com/ru/news/726884/)
 <!-- BLOG-POST-LIST:END -->
