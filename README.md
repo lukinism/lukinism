@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В бета-версии Chrome 113 появилась поддержка WebGPU](https://habr.com/ru/news/727492/)
+- [Состоялся релиз фреймворка Electron 24](https://habr.com/ru/news/727488/)
 - [У хакеров есть возможность удалённо открывать умные гаражные ворота Nexx](https://habr.com/ru/news/727284/)
 - [Sony запатентовала механизм симуляции температуры окружения с помощью контроллера DualSense](https://habr.com/ru/news/727274/)
 - [Инсайдеры: в ближайшее время Apple выпустит iOS 16.4.1 с исправлением «Погоды» и работы Wi-Fi](https://habr.com/ru/news/727264/)
-- [Вышел Google Chrome 112](https://habr.com/ru/news/727258/)
-- [Solder Party выпустила комплект для подключения клавиатуры от BlackBerry к ПК](https://habr.com/ru/news/726920/)
 <!-- BLOG-POST-LIST:END -->
