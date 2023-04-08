@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta* представила систему сборки Buck2](https://habr.com/ru/news/727824/)
 - [GitHub обновила списки задач и таблицы проектов в репозиториях](https://habr.com/ru/news/727728/)
 - [Apple выпустила Safari Technology Preview 167](https://habr.com/ru/news/727690/)
 - [Google выпустила бета-версию Chrome 113](https://habr.com/ru/news/727650/)
 - [Microsoft выпустила PowerToys 0.69 с утилитой Registry Preview](https://habr.com/ru/news/727544/)
-- [В бета-версии Chrome 113 появилась поддержка WebGPU](https://habr.com/ru/news/727492/)
 <!-- BLOG-POST-LIST:END -->
