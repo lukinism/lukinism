@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [ECMAScript 2023 добавит в JavaScript новые методы для работы с массивами](https://habr.com/ru/news/728066/)
 - [Meta* представила систему сборки Buck2](https://habr.com/ru/news/727824/)
 - [GitHub обновила списки задач и таблицы проектов в репозиториях](https://habr.com/ru/news/727728/)
 - [Apple выпустила Safari Technology Preview 167](https://habr.com/ru/news/727690/)
 - [Google выпустила бета-версию Chrome 113](https://habr.com/ru/news/727650/)
-- [Microsoft выпустила PowerToys 0.69 с утилитой Registry Preview](https://habr.com/ru/news/727544/)
 <!-- BLOG-POST-LIST:END -->
