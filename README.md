@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sony готовится к развитию направления облачных игр на фоне слухов о портативной консоли PlayStation](https://habr.com/ru/news/728674/)
+- [Владельцы AirPods без iPhone, iPad или Mac теперь могут обновить прошивку наушников в Apple Store](https://habr.com/ru/news/728664/)
 - [Разработчик представил программу, которая с помощью ИИ на лету исправляет баги в коде](https://habr.com/ru/news/728640/)
 - [Вышел Firefox 112](https://habr.com/ru/news/728610/)
 - [В Google Play появится функция автоматического архивирования неиспользуемых приложений](https://habr.com/ru/news/728442/)
-- [VK открыла коммуникационную платформу VK Teams для разработчиков](https://habr.com/ru/news/728424/)
-- [Microsoft упростит запуск утилит PowerToys с помощью лаунчера](https://habr.com/ru/news/728108/)
 <!-- BLOG-POST-LIST:END -->
