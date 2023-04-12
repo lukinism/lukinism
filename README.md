@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик представил программу, которая с помощью ИИ на лету исправляет баги в коде](https://habr.com/ru/news/728640/)
 - [Вышел Firefox 112](https://habr.com/ru/news/728610/)
 - [В Google Play появится функция автоматического архивирования неиспользуемых приложений](https://habr.com/ru/news/728442/)
 - [VK открыла коммуникационную платформу VK Teams для разработчиков](https://habr.com/ru/news/728424/)
 - [Microsoft упростит запуск утилит PowerToys с помощью лаунчера](https://habr.com/ru/news/728108/)
-- [Raspberry Pi выпустила онлайн-редактор кода для обучения детей](https://habr.com/ru/news/728090/)
 <!-- BLOG-POST-LIST:END -->
