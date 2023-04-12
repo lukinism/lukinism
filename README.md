@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В VLC появилась поддержка Nvidia RTX Video Super Resolution](https://habr.com/ru/news/728700/)
 - [В PowerToys появится интеграция с ChatGPT](https://habr.com/ru/news/728686/)
 - [Sony готовится к развитию направления облачных игр на фоне слухов о портативной консоли PlayStation](https://habr.com/ru/news/728674/)
 - [Владельцы AirPods без iPhone, iPad или Mac теперь могут обновить прошивку наушников в Apple Store](https://habr.com/ru/news/728664/)
 - [Разработчик представил программу, которая с помощью ИИ на лету исправляет баги в коде](https://habr.com/ru/news/728640/)
-- [Вышел Firefox 112](https://habr.com/ru/news/728610/)
 <!-- BLOG-POST-LIST:END -->
