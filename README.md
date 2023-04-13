@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В Windows 11 может появиться портативный режим для использования на игровых консолях типа Steam Deck](https://habr.com/ru/news/728988/)
 - [The New York Times представила математический аналог Wordle — игру Digits](https://habr.com/ru/news/728932/)
 - [Nvidia опубликовала код платформы RTX Remix для создания ремастеров](https://habr.com/ru/news/728886/)
 - [В VLC появилась поддержка Nvidia RTX Video Super Resolution](https://habr.com/ru/news/728700/)
 - [В PowerToys появится интеграция с ChatGPT](https://habr.com/ru/news/728686/)
-- [Sony готовится к развитию направления облачных игр на фоне слухов о портативной консоли PlayStation](https://habr.com/ru/news/728674/)
 <!-- BLOG-POST-LIST:END -->
