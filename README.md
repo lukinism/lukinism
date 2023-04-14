@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Razer выпустила стримерский контроллер Stream Controller X](https://habr.com/ru/news/729242/)
 - [В Google TV добавили более 800 бесплатных каналов](https://habr.com/ru/news/729240/)
 - [Глава OpenAI сообщил, что компания разрабатывает языковую модель GPT-5, но ещё не начинала её обучение](https://habr.com/ru/news/729236/)
 - [Вышла стабильная версия Android Studio Flamingo](https://habr.com/ru/news/729224/)
 - [GitHub представила финалистов ежегодной инициативы GitHub Accelerator](https://habr.com/ru/news/729212/)
-- [LinkedIn начала внедрять верификацию пользователей по удостоверению личности](https://habr.com/ru/news/728998/)
 <!-- BLOG-POST-LIST:END -->
