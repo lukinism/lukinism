@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В Google TV добавили более 800 бесплатных каналов](https://habr.com/ru/news/729240/)
 - [Глава OpenAI сообщил, что компания разрабатывает языковую модель GPT-5, но ещё не начинала её обучение](https://habr.com/ru/news/729236/)
 - [Вышла стабильная версия Android Studio Flamingo](https://habr.com/ru/news/729224/)
 - [GitHub представила финалистов ежегодной инициативы GitHub Accelerator](https://habr.com/ru/news/729212/)
 - [LinkedIn начала внедрять верификацию пользователей по удостоверению личности](https://habr.com/ru/news/728998/)
-- [Благодаря последнему обновлению Edge Canary в Windows 10 и 11 может быть две панели задач](https://habr.com/ru/news/728992/)
 <!-- BLOG-POST-LIST:END -->
