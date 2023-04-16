@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Asus рассказала, что скоро выпустит в продажу портативную консоль ROG Ally](https://habr.com/ru/news/729384/)
+- [Apple готовится выпустить 15-дюймовый MacBook Air](https://habr.com/ru/news/729378/)
 - [В штате Монтана хотят полностью запретить устанавливать TikTok](https://habr.com/ru/news/729370/)
 - [Apple TV запускает функцию мультипросмотра спортивных программ в бета-версии tvOS](https://habr.com/ru/news/729330/)
 - [Restrap представила лямки Hike a Bike Harness для транспортировки велосипеда](https://habr.com/ru/news/729328/)
-- [В мобильной версии Discord появилась возможность отправлять голосовые сообщения](https://habr.com/ru/news/729318/)
-- [Razer выпустила стримерский контроллер Stream Controller X](https://habr.com/ru/news/729242/)
 <!-- BLOG-POST-LIST:END -->
