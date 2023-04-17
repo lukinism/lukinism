@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Samsung может заменить Google на своих устройствах поисковиком от Microsoft](https://habr.com/ru/news/729502/)
 - [Google, CISA и Hacking Policy Council заявили о создании фонда поддержки этичных хакеров](https://habr.com/ru/news/729478/)
 - [Первый Apple Store в Индии открывается на этой неделе](https://habr.com/ru/news/729466/)
 - [Исследователи обнаружили упоминание первой версии шифровальщика LockBit для macOS](https://habr.com/ru/news/729458/)
 - [Хакеры распространяют вредоносное ПО с помощью ложных обновлений Google Chrome](https://habr.com/ru/news/729432/)
-- [Asus рассказала, что скоро выпустит в продажу портативную консоль ROG Ally](https://habr.com/ru/news/729384/)
 <!-- BLOG-POST-LIST:END -->
