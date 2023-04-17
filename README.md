@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи обнаружили упоминание первой версии шифровальщика LockBit для macOS](https://habr.com/ru/news/729458/)
 - [Хакеры распространяют вредоносное ПО с помощью ложных обновлений Google Chrome](https://habr.com/ru/news/729432/)
 - [Asus рассказала, что скоро выпустит в продажу портативную консоль ROG Ally](https://habr.com/ru/news/729384/)
 - [Apple готовится выпустить 15-дюймовый MacBook Air](https://habr.com/ru/news/729378/)
 - [В штате Монтана хотят полностью запретить устанавливать TikTok](https://habr.com/ru/news/729370/)
-- [Apple TV запускает функцию мультипросмотра спортивных программ в бета-версии tvOS](https://habr.com/ru/news/729330/)
 <!-- BLOG-POST-LIST:END -->
