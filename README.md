@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст собрал версию видеокарты Nvidia RTX A2000 с пассивной системой охлаждения](https://habr.com/ru/news/729786/)
 - [Samsung может заменить Google на своих устройствах поисковиком от Microsoft](https://habr.com/ru/news/729502/)
 - [Google, CISA и Hacking Policy Council заявили о создании фонда поддержки этичных хакеров](https://habr.com/ru/news/729478/)
 - [Первый Apple Store в Индии открывается на этой неделе](https://habr.com/ru/news/729466/)
 - [Исследователи обнаружили упоминание первой версии шифровальщика LockBit для macOS](https://habr.com/ru/news/729458/)
-- [Хакеры распространяют вредоносное ПО с помощью ложных обновлений Google Chrome](https://habr.com/ru/news/729432/)
 <!-- BLOG-POST-LIST:END -->
