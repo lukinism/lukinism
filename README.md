@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub запустила публичный бета-тест правил репозиториев](https://habr.com/ru/news/729876/)
 - [Dell планирует сократить закупку компонентов в Китае для уменьшения зависимости критичных поставок электроники](https://habr.com/ru/news/729852/)
 - [Пользователи GitHub теперь могут комментировать файлы в пул-реквестах](https://habr.com/ru/news/729814/)
 - [Эксперты выяснили технические характеристики портативной консоли Asus ROG Ally](https://habr.com/ru/news/729802/)
 - [Энтузиаст собрал версию видеокарты Nvidia RTX A2000 с пассивной системой охлаждения](https://habr.com/ru/news/729786/)
-- [Samsung может заменить Google на своих устройствах поисковиком от Microsoft](https://habr.com/ru/news/729502/)
 <!-- BLOG-POST-LIST:END -->
