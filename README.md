@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз VirtualBox 7.0.8](https://habr.com/ru/news/730112/)
 - [Adobe анонсировала ИИ-функции для Premiere Pro и After Effects](https://habr.com/ru/news/730066/)
 - [GitHub запустила публичный бета-тест правил репозиториев](https://habr.com/ru/news/729876/)
 - [Dell планирует сократить закупку компонентов в Китае для уменьшения зависимости критичных поставок электроники](https://habr.com/ru/news/729852/)
 - [Пользователи GitHub теперь могут комментировать файлы в пул-реквестах](https://habr.com/ru/news/729814/)
-- [Эксперты выяснили технические характеристики портативной консоли Asus ROG Ally](https://habr.com/ru/news/729802/)
 <!-- BLOG-POST-LIST:END -->
