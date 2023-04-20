@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Retro Collective представила интерфейс для подключения ретро-контроллеров к ПК](https://habr.com/ru/news/730472/)
 - [Пользователям стало проще отслеживать происхождение npm-пакетов](https://habr.com/ru/news/730412/)
 - [Node.js 20 стал доступен разработчикам](https://habr.com/ru/news/730358/)
 - [Состоялся релиз VirtualBox 7.0.8](https://habr.com/ru/news/730112/)
 - [Adobe анонсировала ИИ-функции для Premiere Pro и After Effects](https://habr.com/ru/news/730066/)
-- [GitHub запустила публичный бета-тест правил репозиториев](https://habr.com/ru/news/729876/)
 <!-- BLOG-POST-LIST:END -->
