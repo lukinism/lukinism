@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub выпустил инструмент для отчётов об уязвимостях в проектах с открытым исходным кодом](https://habr.com/ru/news/730574/)
 - [Amazon представила криптографическую библиотеку для Rust](https://habr.com/ru/news/730502/)
 - [Retro Collective представила интерфейс для подключения ретро-контроллеров к ПК](https://habr.com/ru/news/730472/)
 - [Пользователям стало проще отслеживать происхождение npm-пакетов](https://habr.com/ru/news/730412/)
 - [Node.js 20 стал доступен разработчикам](https://habr.com/ru/news/730358/)
-- [Состоялся релиз VirtualBox 7.0.8](https://habr.com/ru/news/730112/)
 <!-- BLOG-POST-LIST:END -->
