@@ -34,9 +34,9 @@ gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз Ubuntu 23.04 Lunar Lobster](https://habr.com/ru/news/730792/)
 - [GitHub выпустил инструмент для отчётов об уязвимостях в проектах с открытым исходным кодом](https://habr.com/ru/news/730574/)
 - [Amazon представила криптографическую библиотеку для Rust](https://habr.com/ru/news/730502/)
 - [Retro Collective представила интерфейс для подключения ретро-контроллеров к ПК](https://habr.com/ru/news/730472/)
 - [Пользователям стало проще отслеживать происхождение npm-пакетов](https://habr.com/ru/news/730412/)
-- [Node.js 20 стал доступен разработчикам](https://habr.com/ru/news/730358/)
 <!-- BLOG-POST-LIST:END -->
