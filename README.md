@@ -30,7 +30,7 @@ Kotlin                   1 repo              ███░░░░░░░░�
 ___
 ## Contact with me:
 **tg: [@lukinism](https://t.me/lukinism)  
-gmail: lukinism69@gmail.com**
+gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
