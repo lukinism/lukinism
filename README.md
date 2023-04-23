@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft улучшила подсветку кода JavaScript и TypeScript в Visual Studio](https://habr.com/ru/news/731018/)
 - [Состоялся релиз Ubuntu 23.04 Lunar Lobster](https://habr.com/ru/news/730792/)
 - [GitHub выпустил инструмент для отчётов об уязвимостях в проектах с открытым исходным кодом](https://habr.com/ru/news/730574/)
 - [Amazon представила криптографическую библиотеку для Rust](https://habr.com/ru/news/730502/)
 - [Retro Collective представила интерфейс для подключения ретро-контроллеров к ПК](https://habr.com/ru/news/730472/)
-- [Пользователям стало проще отслеживать происхождение npm-пакетов](https://habr.com/ru/news/730412/)
 <!-- BLOG-POST-LIST:END -->
