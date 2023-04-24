@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Обновлённое API Slack вышло из бета-теста](https://habr.com/ru/news/731284/)
 - [Вышла Arduino IDE 2.1](https://habr.com/ru/news/731210/)
 - [Разработчики Flatpak представили обновление сайта Flathub](https://habr.com/ru/news/731166/)
 - [Релиз дистрибутива Manjaro 22.1 Talos](https://habr.com/ru/news/731144/)
 - [Дайджест новостей из мира программирования #1](https://habr.com/ru/articles/731054/)
-- [Microsoft улучшила подсветку кода JavaScript и TypeScript в Visual Studio](https://habr.com/ru/news/731018/)
 <!-- BLOG-POST-LIST:END -->
