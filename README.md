@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики Flatpak представили обновление сайта Flathub](https://habr.com/ru/news/731166/)
 - [Релиз дистрибутива Manjaro 22.1 Talos](https://habr.com/ru/news/731144/)
 - [Дайджест новостей из мира программирования #1](https://habr.com/ru/articles/731054/)
 - [Microsoft улучшила подсветку кода JavaScript и TypeScript в Visual Studio](https://habr.com/ru/news/731018/)
 - [Состоялся релиз Ubuntu 23.04 Lunar Lobster](https://habr.com/ru/news/730792/)
-- [GitHub выпустил инструмент для отчётов об уязвимостях в проектах с открытым исходным кодом](https://habr.com/ru/news/730574/)
 <!-- BLOG-POST-LIST:END -->
