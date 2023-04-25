@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [WinToUSB 7.9 поддерживает работу с Windows 11 Lite](https://habr.com/ru/news/731420/)
+- [GitLab анонсировала ИИ-функцию для поиска уязвимостей в коде](https://habr.com/ru/news/731414/)
 - [Библиотека Photo Picker получила поддержку Android 4.4 KitKat и более поздних версий](https://habr.com/ru/news/731374/)
 - [Эмулятор старых iOS-игр touchHLE теперь работает и на Android](https://habr.com/ru/news/731366/)
 - [Разработчик представил JavaGPT — клиент для запуска ChatGPT на Windows 98 и других старых версиях ОС](https://habr.com/ru/news/731312/)
-- [Обновлённое API Slack вышло из бета-теста](https://habr.com/ru/news/731284/)
-- [Вышла Arduino IDE 2.1](https://habr.com/ru/news/731210/)
 <!-- BLOG-POST-LIST:END -->
