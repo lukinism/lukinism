@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kickstarter-дайджест: интересные стартапы за конец апреля](https://habr.com/ru/articles/731456/)
 - [На GitHub опубликовали код утилиты Simple LAPS GUI, предназначенной для работы с Windows LAPS](https://habr.com/ru/news/731448/)
 - [WinToUSB 7.9 поддерживает работу с Windows 11 Lite](https://habr.com/ru/news/731420/)
 - [GitLab анонсировала ИИ-функцию для поиска уязвимостей в коде](https://habr.com/ru/news/731414/)
 - [Библиотека Photo Picker получила поддержку Android 4.4 KitKat и более поздних версий](https://habr.com/ru/news/731374/)
-- [Эмулятор старых iOS-игр touchHLE теперь работает и на Android](https://habr.com/ru/news/731366/)
 <!-- BLOG-POST-LIST:END -->
