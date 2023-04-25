@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Библиотека Photo Picker получила поддержку Android 4.4 KitKat и более поздних версий](https://habr.com/ru/news/731374/)
+- [Эмулятор старых iOS-игр touchHLE теперь работает и на Android](https://habr.com/ru/news/731366/)
 - [Разработчик представил JavaGPT — клиент для запуска ChatGPT на Windows 98 и других старых версиях ОС](https://habr.com/ru/news/731312/)
 - [Обновлённое API Slack вышло из бета-теста](https://habr.com/ru/news/731284/)
 - [Вышла Arduino IDE 2.1](https://habr.com/ru/news/731210/)
-- [Разработчики Flatpak представили обновление сайта Flathub](https://habr.com/ru/news/731166/)
-- [Релиз дистрибутива Manjaro 22.1 Talos](https://habr.com/ru/news/731144/)
 <!-- BLOG-POST-LIST:END -->
