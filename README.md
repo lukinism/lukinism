@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [X.Org объявила о прекращении поддержки 20 устаревших библиотек и утилит](https://habr.com/ru/news/733146/)
 - [Spotify представила обновление своего приложения для ПК](https://habr.com/ru/news/733004/)
 - [Релиз Docker Desktop 4.19](https://habr.com/ru/news/732912/)
 - [Состоялся релиз Rufus 4 без поддержки Windows 7](https://habr.com/ru/news/732838/)
 - [Вышло обновление Git 2.40.1, исправляющее недавно найденные уязвимости](https://habr.com/ru/news/732784/)
-- [Дайджест новостей из мира программирования #2](https://habr.com/ru/articles/732580/)
 <!-- BLOG-POST-LIST:END -->
