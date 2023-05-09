@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Релиз OBS Studio 29.1](https://habr.com/ru/news/734038/)
 - [Энтузиаст использует авиационный тахометр и Raspberry Pi Pico для мониторинга нагрузки процессора](https://habr.com/ru/news/733450/)
 - [Вышел Chrome 113](https://habr.com/ru/news/733384/)
 - [Обновление Visual Studio Code 1.78](https://habr.com/ru/news/733330/)
 - [В APT 2.7 появилась поддержка снапшотов](https://habr.com/ru/news/733186/)
-- [Canonical начала процесс разработки дистрибутива Ubuntu 23.10 Mantic Minotaur](https://habr.com/ru/news/733184/)
 <!-- BLOG-POST-LIST:END -->
