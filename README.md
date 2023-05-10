@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Охотники за НЛО выпустили открытую систему для наблюдения за небом](https://habr.com/ru/news/734172/)
 - [Philips представила монитор с двумя дисплеями, один из которых с электронными чернилами](https://habr.com/ru/news/734130/)
 - [Блогер автоматизировал прогрев своей машины с помощью ESP32 и Home Assistant](https://habr.com/ru/news/734076/)
 - [Apple представила Final Cut Pro и Logic Pro для iPad](https://habr.com/ru/news/734060/)
 - [Релиз OBS Studio 29.1](https://habr.com/ru/news/734038/)
-- [Энтузиаст использует авиационный тахометр и Raspberry Pi Pico для мониторинга нагрузки процессора](https://habr.com/ru/news/733450/)
 <!-- BLOG-POST-LIST:END -->
