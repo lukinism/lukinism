@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google представила Android Design Hub — дизайн-центр для разработчиков](https://habr.com/ru/news/734312/)
 - [Spotify удалила из библиотеки десятки тысяч треков, написанных искусственным интеллектом](https://habr.com/ru/news/734262/)
 - [Охотники за НЛО выпустили открытую систему для наблюдения за небом](https://habr.com/ru/news/734172/)
 - [Philips представила монитор с двумя дисплеями, один из которых с электронными чернилами](https://habr.com/ru/news/734130/)
 - [Блогер автоматизировал прогрев своей машины с помощью ESP32 и Home Assistant](https://habr.com/ru/news/734076/)
-- [Apple представила Final Cut Pro и Logic Pro для iPad](https://habr.com/ru/news/734060/)
 <!-- BLOG-POST-LIST:END -->
