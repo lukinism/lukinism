@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Labs запустила портал для участия в тестировании экспериментальных ИИ-технологий](https://habr.com/ru/news/734552/)
 - [Push-защита от GitHub, предотвращающая утечки секретов, стала доступна всем разработчикам](https://habr.com/ru/news/734416/)
 - [GitHub представила обновлённую систему поиска кода](https://habr.com/ru/news/734408/)
 - [Итоги Google I/O для Android-разработчиков](https://habr.com/ru/news/734394/)
 - [Google представила Android Design Hub — дизайн-центр для разработчиков](https://habr.com/ru/news/734312/)
-- [Spotify удалила из библиотеки десятки тысяч треков, написанных искусственным интеллектом](https://habr.com/ru/news/734262/)
 <!-- BLOG-POST-LIST:END -->
