@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Умелец доработал камеру Leica M2 с помощью Raspberry Pi Zero W и модуля Raspberry Pi HQ](https://habr.com/ru/news/734960/)
 - [Обновление Jetpack Compose](https://habr.com/ru/news/734710/)
 - [Microsoft Visual Studio впервые за более чем 10 лет обновляет пользовательский интерфейс](https://habr.com/ru/news/734586/)
 - [Google Labs запустила портал для участия в тестировании экспериментальных ИИ-технологий](https://habr.com/ru/news/734552/)
 - [Push-защита от GitHub, предотвращающая утечки секретов, стала доступна всем разработчикам](https://habr.com/ru/news/734416/)
-- [GitHub представила обновлённую систему поиска кода](https://habr.com/ru/news/734408/)
 <!-- BLOG-POST-LIST:END -->
