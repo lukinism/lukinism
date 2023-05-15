@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft убрала рекламу и новости из приложения «Погода»](https://habr.com/ru/news/735226/)
 - [В браузере Brave появится функция, запрещающая сайтам повторно идентифицировать пользователя при последующих посещениях](https://habr.com/ru/news/735146/)
 - [Умелец доработал камеру Leica M2 с помощью Raspberry Pi Zero W и модуля Raspberry Pi HQ](https://habr.com/ru/news/734960/)
 - [Обновление Jetpack Compose](https://habr.com/ru/news/734710/)
 - [Microsoft Visual Studio впервые за более чем 10 лет обновляет пользовательский интерфейс](https://habr.com/ru/news/734586/)
-- [Google Labs запустила портал для участия в тестировании экспериментальных ИИ-технологий](https://habr.com/ru/news/734552/)
 <!-- BLOG-POST-LIST:END -->
