@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [TikTok будет выплачивать гонорары создателям популярных эффектов](https://habr.com/ru/news/735582/)
+- [Компания Hackboard представила одноплатник Hackboard 2 на базе Intel и под управлением Windows](https://habr.com/ru/news/735574/)
 - [В конце мая Logitech выпустит в Европе Logitech G Cloud — портативную консоль для облачного гейминга](https://habr.com/ru/news/735436/)
 - [В клиенте Telegram для macOS нашли уязвимость, позволяющую получать доступ к микрофону и камере](https://habr.com/ru/news/735426/)
 - [Инсайдеры: в watchOS 10 экран с виджетами станет центральным элементом управления часами](https://habr.com/ru/news/735388/)
-- [Сторонние Bluetooth-трекеры получили нативную поддержку Android](https://habr.com/ru/news/735254/)
-- [Microsoft убрала рекламу и новости из приложения «Погода»](https://habr.com/ru/news/735226/)
 <!-- BLOG-POST-LIST:END -->
