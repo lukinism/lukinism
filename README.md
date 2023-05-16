@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Инсайдеры: в watchOS 10 экран с виджетами станет центральным элементом управления часами](https://habr.com/ru/news/735388/)
 - [Сторонние Bluetooth-трекеры получили нативную поддержку Android](https://habr.com/ru/news/735254/)
 - [Microsoft убрала рекламу и новости из приложения «Погода»](https://habr.com/ru/news/735226/)
 - [В браузере Brave появится функция, запрещающая сайтам повторно идентифицировать пользователя при последующих посещениях](https://habr.com/ru/news/735146/)
 - [Умелец доработал камеру Leica M2 с помощью Raspberry Pi Zero W и модуля Raspberry Pi HQ](https://habr.com/ru/news/734960/)
-- [Обновление Jetpack Compose](https://habr.com/ru/news/734710/)
 <!-- BLOG-POST-LIST:END -->
