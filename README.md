@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В конце мая Logitech выпустит в Европе Logitech G Cloud — портативную консоль для облачного гейминга](https://habr.com/ru/news/735436/)
+- [В клиенте Telegram для macOS нашли уязвимость, позволяющую получать доступ к микрофону и камере](https://habr.com/ru/news/735426/)
 - [Инсайдеры: в watchOS 10 экран с виджетами станет центральным элементом управления часами](https://habr.com/ru/news/735388/)
 - [Сторонние Bluetooth-трекеры получили нативную поддержку Android](https://habr.com/ru/news/735254/)
 - [Microsoft убрала рекламу и новости из приложения «Погода»](https://habr.com/ru/news/735226/)
-- [В браузере Brave появится функция, запрещающая сайтам повторно идентифицировать пользователя при последующих посещениях](https://habr.com/ru/news/735146/)
-- [Умелец доработал камеру Leica M2 с помощью Raspberry Pi Zero W и модуля Raspberry Pi HQ](https://habr.com/ru/news/734960/)
 <!-- BLOG-POST-LIST:END -->
