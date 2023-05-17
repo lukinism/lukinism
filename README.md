@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Logitech и iFixit запустили совместную программу самостоятельного ремонта](https://habr.com/ru/news/735774/)
 - [Функция Tap to Pay от Apple теперь доступна в Австралии](https://habr.com/ru/news/735736/)
 - [Команда разработчиков Pixelmator Pro выпустила версию фоторедактора Photomator для macOS](https://habr.com/ru/news/735708/)
 - [TikTok будет выплачивать гонорары создателям популярных эффектов](https://habr.com/ru/news/735582/)
 - [Компания Hackboard представила одноплатник Hackboard 2 на базе Intel и под управлением Windows](https://habr.com/ru/news/735574/)
-- [В конце мая Logitech выпустит в Европе Logitech G Cloud — портативную консоль для облачного гейминга](https://habr.com/ru/news/735436/)
 <!-- BLOG-POST-LIST:END -->
