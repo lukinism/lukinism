@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Электрический гиперкар Rimac Nevera побил 23 рекорда скорости](https://habr.com/ru/news/735874/)
 - [Разработчику удалось выполнить промт-инъекцию ChatGPT с помощью плагина и ролика на YouTube](https://habr.com/ru/news/735806/)
 - [Logitech и iFixit запустили совместную программу самостоятельного ремонта](https://habr.com/ru/news/735774/)
 - [Функция Tap to Pay от Apple теперь доступна в Австралии](https://habr.com/ru/news/735736/)
 - [Команда разработчиков Pixelmator Pro выпустила версию фоторедактора Photomator для macOS](https://habr.com/ru/news/735708/)
-- [TikTok будет выплачивать гонорары создателям популярных эффектов](https://habr.com/ru/news/735582/)
 <!-- BLOG-POST-LIST:END -->
