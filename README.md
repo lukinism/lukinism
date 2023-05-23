@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Умные осветительные приборы Yeelight Pro получили поддержку протокола Matter](https://habr.com/ru/news/737124/)
+- [Final Cut Pro и Logic Pro для iPad стали доступны в App Store](https://habr.com/ru/news/737116/)
 - [В бета-версии Photoshop появились генеративные ИИ-функции](https://habr.com/ru/news/737100/)
 - [Google начала тестировать в Chrome индикацию потребления памяти отдельными вкладками](https://habr.com/ru/news/737080/)
 - [Google запустила программу Bug Bounty для своих Android-приложений](https://habr.com/ru/news/736986/)
-- [ПК от Cooler Master в стиле кроссовка поступит в продажу в июне](https://habr.com/ru/news/736856/)
-- [Инсайдеры: Apple будет продавать гарнитуру смешанной реальности по себестоимости, надеясь заработать на приложениях](https://habr.com/ru/news/736308/)
 <!-- BLOG-POST-LIST:END -->
