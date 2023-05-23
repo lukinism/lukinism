@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В бета-версии Photoshop появились генеративные ИИ-функции](https://habr.com/ru/news/737100/)
 - [Google начала тестировать в Chrome индикацию потребления памяти отдельными вкладками](https://habr.com/ru/news/737080/)
 - [Google запустила программу Bug Bounty для своих Android-приложений](https://habr.com/ru/news/736986/)
 - [ПК от Cooler Master в стиле кроссовка поступит в продажу в июне](https://habr.com/ru/news/736856/)
 - [Инсайдеры: Apple будет продавать гарнитуру смешанной реальности по себестоимости, надеясь заработать на приложениях](https://habr.com/ru/news/736308/)
-- [Состоялся релиз Matter 1.1](https://habr.com/ru/news/736286/)
 <!-- BLOG-POST-LIST:END -->
