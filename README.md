@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google запустила программу Bug Bounty для своих Android-приложений](https://habr.com/ru/news/736986/)
 - [ПК от Cooler Master в стиле кроссовка поступит в продажу в июне](https://habr.com/ru/news/736856/)
 - [Инсайдеры: Apple будет продавать гарнитуру смешанной реальности по себестоимости, надеясь заработать на приложениях](https://habr.com/ru/news/736308/)
 - [Состоялся релиз Matter 1.1](https://habr.com/ru/news/736286/)
 - [Sony рассказала про Access — контроллер PlayStation 5 для людей с ограниченными возможностями](https://habr.com/ru/news/736168/)
-- [Власти Джорджии запустили поддержку цифрового удостоверения личности в iPhone](https://habr.com/ru/news/736166/)
 <!-- BLOG-POST-LIST:END -->
