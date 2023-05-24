@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon представила планшет Fire Max 11 со стилусом и внешней клавиатурой](https://habr.com/ru/news/737334/)
 - [Google выпустила серию видеороликов о проектировании приложений для Wear OS](https://habr.com/ru/news/737314/)
 - [Инженер изготовил умные брюки, сообщающие о расстёгнутой ширинке](https://habr.com/ru/news/737270/)
 - [Apple объявила финалистов премии Apple Design Award 2023](https://habr.com/ru/news/737196/)
 - [Состоялся релиз PowerToys 0.70 с утилитами Mouse Without Borders и Peek](https://habr.com/ru/news/737126/)
-- [Умные осветительные приборы Yeelight Pro получили поддержку протокола Matter](https://habr.com/ru/news/737124/)
 <!-- BLOG-POST-LIST:END -->
