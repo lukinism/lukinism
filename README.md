@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo выпустила обновление для консолей 3DS, которое блокирует прошивку устройств для запуска пиратских игр](https://habr.com/ru/news/737400/)
+- [В ультрабуках Microsoft Surface Pro X перестали работать веб-камеры из-за истёкшего сертификата безопасности](https://habr.com/ru/news/737396/)
 - [Opera представила Aria — чат-бота на базе искусственного интеллекта для фирменного браузера](https://habr.com/ru/news/737390/)
 - [Sony представила камеру для влогеров ZV-1 II за $900](https://habr.com/ru/news/737382/)
 - [Google отключит функцию автоматического перевода веб-страниц в устаревших версиях Chrome](https://habr.com/ru/news/737348/)
-- [Amazon представила планшет Fire Max 11 со стилусом и внешней клавиатурой](https://habr.com/ru/news/737334/)
-- [Google выпустила серию видеороликов о проектировании приложений для Wear OS](https://habr.com/ru/news/737314/)
 <!-- BLOG-POST-LIST:END -->
