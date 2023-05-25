@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Стали известны технические характеристики складного смартфона Motorola Razr 40 Ultra](https://habr.com/ru/news/737576/)
 - [В Сеть утекли фотографии интерьера салона Tesla Cybertruck](https://habr.com/ru/news/737546/)
 - [Состоялся релиз Mimestream — клиента Gmail для macOS от бывшего разработчика приложения Apple Mail](https://habr.com/ru/news/737538/)
 - [Red Hat выпустила Podman Desktop 1.0 — графический интерфейс управления контейнерами](https://habr.com/ru/news/737524/)
 - [Обновление логотипа почтового клиента Thunderbird](https://habr.com/ru/news/737458/)
-- [Google объявила победителей премии Open Source Peer Bonus 2023](https://habr.com/ru/news/737434/)
 <!-- BLOG-POST-LIST:END -->
