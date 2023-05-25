@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple запатентовала технологию поиска утерянных стилусов Apple Pencil](https://habr.com/ru/news/737594/)
+- [Dyson представила робот-пылесос 360 Vis Nav с высокой мощностью и продвинутой системой навигации](https://habr.com/ru/news/737584/)
 - [Стали известны технические характеристики складного смартфона Motorola Razr 40 Ultra](https://habr.com/ru/news/737576/)
 - [В Сеть утекли фотографии интерьера салона Tesla Cybertruck](https://habr.com/ru/news/737546/)
 - [Состоялся релиз Mimestream — клиента Gmail для macOS от бывшего разработчика приложения Apple Mail](https://habr.com/ru/news/737538/)
-- [Red Hat выпустила Podman Desktop 1.0 — графический интерфейс управления контейнерами](https://habr.com/ru/news/737524/)
-- [Обновление логотипа почтового клиента Thunderbird](https://habr.com/ru/news/737458/)
 <!-- BLOG-POST-LIST:END -->
