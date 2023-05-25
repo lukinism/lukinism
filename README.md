@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Обновление логотипа почтового клиента Thunderbird](https://habr.com/ru/news/737458/)
 - [Google объявила победителей премии Open Source Peer Bonus 2023](https://habr.com/ru/news/737434/)
 - [PyPI прекратит поддержку PGP-подписей из-за низкой эффективности](https://habr.com/ru/news/737430/)
 - [Nintendo выпустила обновление для консолей 3DS, которое блокирует прошивку устройств для запуска пиратских игр](https://habr.com/ru/news/737400/)
 - [В ультрабуках Microsoft Surface Pro X перестали работать веб-камеры из-за истёкшего сертификата безопасности](https://habr.com/ru/news/737396/)
-- [Opera представила Aria — чат-бота на базе искусственного интеллекта для фирменного браузера](https://habr.com/ru/news/737390/)
 <!-- BLOG-POST-LIST:END -->
