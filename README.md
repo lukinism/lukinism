@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google тестирует возможности генеративного ИИ для поиска](https://habr.com/ru/news/737716/)
 - [Twitter представила тариф доступа к API для стартапов за $5000 в месяц](https://habr.com/ru/news/737712/)
 - [Figma запустила приложение FigJam для iPad](https://habr.com/ru/news/737706/)
 - [В браузере Arc появился инструмент для редактирования просматриваемых веб-страниц](https://habr.com/ru/news/737654/)
 - [Apple запатентовала технологию поиска утерянных стилусов Apple Pencil](https://habr.com/ru/news/737594/)
-- [Dyson представила робот-пылесос 360 Vis Nav с высокой мощностью и продвинутой системой навигации](https://habr.com/ru/news/737584/)
 <!-- BLOG-POST-LIST:END -->
