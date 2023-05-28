@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple закрывает сервис «Мой фотопоток» и просит пользователей перейти на «Фото iCloud»](https://habr.com/ru/news/738130/)
 - [В PyPI появится обязательная двухфакторная аутентификация](https://habr.com/ru/news/737776/)
 - [Официальное приложение ChatGPT для iOS от OpenAI стало доступно в более чем 40 странах](https://habr.com/ru/news/737738/)
 - [Google тестирует возможности генеративного ИИ для поиска](https://habr.com/ru/news/737716/)
 - [Twitter представила тариф доступа к API для стартапов за $5000 в месяц](https://habr.com/ru/news/737712/)
-- [Figma запустила приложение FigJam для iPad](https://habr.com/ru/news/737706/)
 <!-- BLOG-POST-LIST:END -->
