@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В офисном пакете LibreOffice исправили уязвимость, позволяющую выполнять произвольный код](https://habr.com/ru/news/738212/)
 - [Отображение секунд на панели задач Windows 11 сокращает время работы ноутбука на 10-15 минут](https://habr.com/ru/news/738194/)
 - [Apple закрывает сервис «Мой фотопоток» и просит пользователей перейти на «Фото iCloud»](https://habr.com/ru/news/738130/)
 - [В PyPI появится обязательная двухфакторная аутентификация](https://habr.com/ru/news/737776/)
 - [Официальное приложение ChatGPT для iOS от OpenAI стало доступно в более чем 40 странах](https://habr.com/ru/news/737738/)
-- [Google тестирует возможности генеративного ИИ для поиска](https://habr.com/ru/news/737716/)
 <!-- BLOG-POST-LIST:END -->
