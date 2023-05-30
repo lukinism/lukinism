@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Компания Zero Zero Robotics представила миниатюрный селфи-дрон](https://habr.com/ru/news/738568/)
 - [Leica анонсировала полнокадровую камеру Q3 за 5,9 тыс. евро](https://habr.com/ru/news/738426/)
 - [Honda Motor планирует к 2030 году увеличить штат разработчиков до 10 тыс. сотрудников](https://habr.com/ru/news/738326/)
 - [Nintendo объяснила требования по блокировке эмуляторов «защитой тяжёлого труда разработчиков видеоигр»](https://habr.com/ru/news/738306/)
 - [В браузере Firefox появится чат-бот](https://habr.com/ru/news/738292/)
-- [Исследователи разработали модель машинного обучения для выявления болезни Альцгеймера](https://habr.com/ru/news/738268/)
 <!-- BLOG-POST-LIST:END -->
