@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Brave открыла доступ к Search API](https://habr.com/ru/news/738758/)
 - [Следующее крупное обновление чат-бота Bing будет включать поддержку сторонних плагинов](https://habr.com/ru/news/738712/)
 - [Приложение Apple Music Classical вышло на Android](https://habr.com/ru/news/738700/)
 - [Коллекционер показал прототип AirPods в цвете iPhone 7, от выпуска которого отказалась Apple](https://habr.com/ru/news/738680/)
 - [Nvidia и MediaTek будут вместе разрабатывать SoC для автомобилей](https://habr.com/ru/news/738660/)
-- [Компания Zero Zero Robotics представила миниатюрный селфи-дрон](https://habr.com/ru/news/738568/)
 <!-- BLOG-POST-LIST:END -->
