@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Инженер представил промт-камеру Paragraphica, которая генерирует фотографии на основе данных о местоположении](https://habr.com/ru/news/738878/)
 - [В Firefox Nightly появилась поддержка локального машинного перевода страниц](https://habr.com/ru/news/738804/)
 - [Консоль Asus ROG Ally с новой прошивкой получила прирост производительности в играх до 20%](https://habr.com/ru/news/738784/)
 - [Apple анонсировала изменение налоговой политики для разработчиков приложений](https://habr.com/ru/news/738768/)
 - [Brave открыла доступ к Search API](https://habr.com/ru/news/738758/)
-- [Следующее крупное обновление чат-бота Bing будет включать поддержку сторонних плагинов](https://habr.com/ru/news/738712/)
 <!-- BLOG-POST-LIST:END -->
