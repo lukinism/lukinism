@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Анонс iOS 17: горизонтальный режим, новые возможности AirDrop и персонализированные стикеры](https://habr.com/ru/news/740016/)
 - [В Google Wallet появилась поддержка цифровых удостоверений личности](https://habr.com/ru/news/739998/)
 - [Вышел Rufus 4.1, совместимый с Windows Dev Kit 2023](https://habr.com/ru/news/739992/)
 - [Kickstarter-дайджест: интересные стартапы за начало июня](https://habr.com/ru/articles/739480/)
 - [Вышел браузер Brave 1.52 с вертикальными вкладками](https://habr.com/ru/news/739308/)
-- [Приложение Reddit Apollo может прекратить свою работу из-за новых цен на API](https://habr.com/ru/news/739210/)
 <!-- BLOG-POST-LIST:END -->
