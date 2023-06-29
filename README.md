@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unity запустила три проекта, связанных с искусственным интеллектом](https://habr.com/ru/news/744662/)
 - [GUI для Git: подборка популярных решений](https://habr.com/ru/articles/741016/)
 - [Анонс macOS Sonoma: виджеты на рабочем столе, профили пользователей в Safari и Death Stranding](https://habr.com/ru/news/740022/)
 - [Анонс iOS 17: горизонтальный режим, новые возможности AirDrop и персонализированные стикеры](https://habr.com/ru/news/740016/)
 - [В Google Wallet появилась поддержка цифровых удостоверений личности](https://habr.com/ru/news/739998/)
-- [Вышел Rufus 4.1, совместимый с Windows Dev Kit 2023](https://habr.com/ru/news/739992/)
 <!-- BLOG-POST-LIST:END -->
