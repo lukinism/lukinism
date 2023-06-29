@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [«Веб-Сервер» представила ANIC — ПО для управления трафиком в сети Kubernetes](https://habr.com/ru/news/744654/)
 - [Разработчик нейросети Drag Your GAN опубликовал код проекта на GitHub](https://habr.com/ru/news/744690/)
 - [Мобильное приложение ChatGPT от OpenAI теперь может выполнять поиск в Интернете, но только через Bing](https://habr.com/ru/news/744672/)
 - [Unity запустила три проекта, связанных с искусственным интеллектом](https://habr.com/ru/news/744662/)
 - [GUI для Git: подборка популярных решений](https://habr.com/ru/articles/741016/)
-- [Анонс macOS Sonoma: виджеты на рабочем столе, профили пользователей в Safari и Death Stranding](https://habr.com/ru/news/740022/)
 <!-- BLOG-POST-LIST:END -->
