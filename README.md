@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple начинает первую фазу строительства исследовательского центра в Северной Каролине](https://habr.com/ru/news/745210/)
 - [Apple признала 12-дюймовый MacBook технически устаревшим устройством](https://habr.com/ru/news/745186/)
 - [CASETiFY анонсировала линейку аксессуаров для Apple Vision Pro](https://habr.com/ru/news/745154/)
 - [«Фото» в iOS 17 умеет распознавать значки по уходу за одеждой на изображениях](https://habr.com/ru/news/745066/)
 - [Состоялся релиз Blender 3.6](https://habr.com/ru/news/744924/)
-- [«Веб-Сервер» представила ANIC — ПО для управления трафиком в сети Kubernetes](https://habr.com/ru/news/744654/)
 <!-- BLOG-POST-LIST:END -->
