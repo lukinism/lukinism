@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В Windows 10/11 вернули помощника-скрепку Clippy, работающего на базе GPT](https://habr.com/ru/news/745366/)
+- [Nintendo убрала в архив Game Boy, переживший взрыв во время войны в Персидском заливе](https://habr.com/ru/news/745362/)
 - [Apple начинает первую фазу строительства исследовательского центра в Северной Каролине](https://habr.com/ru/news/745210/)
 - [Apple признала 12-дюймовый MacBook технически устаревшим устройством](https://habr.com/ru/news/745186/)
 - [CASETiFY анонсировала линейку аксессуаров для Apple Vision Pro](https://habr.com/ru/news/745154/)
-- [«Фото» в iOS 17 умеет распознавать значки по уходу за одеждой на изображениях](https://habr.com/ru/news/745066/)
-- [Состоялся релиз Blender 3.6](https://habr.com/ru/news/744924/)
 <!-- BLOG-POST-LIST:END -->
