@@ -35,7 +35,7 @@ gmail: admin@botfox.ru**
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
 - [Разработчики Terraria рассказали, что не могут оставить игру из-за её популярности](https://habr.com/ru/news/745370/)
-- [В Windows 10/11 вернули помощника-скрепку Clippy, работающего на базе GPT](https://habr.com/ru/news/745366/)
+- [Разработчики представили помощника-скрепку Clippy для Windows 10/11, работающего на базе GPT](https://habr.com/ru/news/745366/)
 - [Nintendo убрала в архив Game Boy, переживший взрыв во время войны в Персидском заливе](https://habr.com/ru/news/745362/)
 - [Apple начинает первую фазу строительства исследовательского центра в Северной Каролине](https://habr.com/ru/news/745210/)
 - [Apple признала 12-дюймовый MacBook технически устаревшим устройством](https://habr.com/ru/news/745186/)
