@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Purism представила Liberty Phone — обновление смартфона Librem 5, созданного на базе свободного ПО](https://habr.com/ru/news/745388/)
 - [Apple разрабатывает монитор, который можно будет использовать в качестве панели мониторинга умного дома](https://habr.com/ru/news/745386/)
 - [Разработчики Terraria рассказали, что не могут оставить игру из-за её популярности](https://habr.com/ru/news/745370/)
 - [Разработчики представили помощника-скрепку Clippy для Windows 10/11, работающего на базе GPT](https://habr.com/ru/news/745366/)
 - [Nintendo убрала в архив Game Boy, переживший взрыв во время войны в Персидском заливе](https://habr.com/ru/news/745362/)
-- [Apple начинает первую фазу строительства исследовательского центра в Северной Каролине](https://habr.com/ru/news/745210/)
 <!-- BLOG-POST-LIST:END -->
