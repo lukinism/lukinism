@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик опубликовал драйвер для управления яркостью Apple Studio Display на Linux](https://habr.com/ru/news/745504/)
+- [Пользователям удалось собрать и запустить утёкший код первой Far Cry](https://habr.com/ru/news/745486/)
 - [Инсайдер: в AirPods появится функция проверки слуха и датчик измерения температуры тела](https://habr.com/ru/news/745462/)
 - [GitLab представила собственного ИИ-помощника для разработчиков](https://habr.com/ru/news/745418/)
 - [Purism представила Liberty Phone — обновление смартфона Librem 5, созданного на базе свободного ПО](https://habr.com/ru/news/745388/)
-- [Apple разрабатывает монитор, который можно будет использовать в качестве панели мониторинга умного дома](https://habr.com/ru/news/745386/)
-- [Разработчики Terraria рассказали, что не могут оставить игру из-за её популярности](https://habr.com/ru/news/745370/)
 <!-- BLOG-POST-LIST:END -->
