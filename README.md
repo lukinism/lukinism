@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Инсайдер: в AirPods появится функция проверки слуха и датчик измерения температуры тела](https://habr.com/ru/news/745462/)
 - [GitLab представила собственного ИИ-помощника для разработчиков](https://habr.com/ru/news/745418/)
 - [Purism представила Liberty Phone — обновление смартфона Librem 5, созданного на базе свободного ПО](https://habr.com/ru/news/745388/)
 - [Apple разрабатывает монитор, который можно будет использовать в качестве панели мониторинга умного дома](https://habr.com/ru/news/745386/)
 - [Разработчики Terraria рассказали, что не могут оставить игру из-за её популярности](https://habr.com/ru/news/745370/)
-- [Разработчики представили помощника-скрепку Clippy для Windows 10/11, работающего на базе GPT](https://habr.com/ru/news/745366/)
 <!-- BLOG-POST-LIST:END -->
