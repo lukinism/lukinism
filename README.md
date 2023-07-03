@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta* разрабатывает приложение Threads — аналог Twitter](https://habr.com/ru/news/745548/)
 - [В Microsoft Edge Canary добавили флаг для активации жестов мыши](https://habr.com/ru/news/745524/)
 - [Разработчик опубликовал драйвер для управления яркостью Apple Studio Display на Linux](https://habr.com/ru/news/745504/)
 - [Пользователям удалось собрать и запустить утёкший код первой Far Cry](https://habr.com/ru/news/745486/)
 - [Инсайдер: в AirPods появится функция проверки слуха и датчик измерения температуры тела](https://habr.com/ru/news/745462/)
-- [GitLab представила собственного ИИ-помощника для разработчиков](https://habr.com/ru/news/745418/)
 <!-- BLOG-POST-LIST:END -->
