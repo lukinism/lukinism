@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик выпустил инструмент, решающий проблему «путаницы манифестов» в NPM](https://habr.com/ru/news/746082/)
 - [Итоги конференции Figma Config 2023](https://habr.com/ru/articles/746056/)
 - [Meta* разрабатывает приложение Threads — аналог Twitter](https://habr.com/ru/news/745548/)
 - [В Microsoft Edge Canary добавили флаг для активации жестов мыши](https://habr.com/ru/news/745524/)
 - [Разработчик опубликовал драйвер для управления яркостью Apple Studio Display на Linux](https://habr.com/ru/news/745504/)
-- [Пользователям удалось собрать и запустить утёкший код первой Far Cry](https://habr.com/ru/news/745486/)
 <!-- BLOG-POST-LIST:END -->
