@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spotify полностью прекращает принимать платежи через App Store](https://habr.com/ru/news/746240/)
+- [Разработчики UI-фреймворка Nova воссоздали интерфейс visionOS для Quest Pro](https://habr.com/ru/news/746228/)
 - [75% игр в Steam работает на Linux](https://habr.com/ru/news/746168/)
 - [Разработчик выпустил инструмент, решающий проблему «путаницы манифестов» в NPM](https://habr.com/ru/news/746082/)
 - [Итоги конференции Figma Config 2023](https://habr.com/ru/articles/746056/)
-- [Meta* разрабатывает приложение Threads — аналог Twitter](https://habr.com/ru/news/745548/)
-- [В Microsoft Edge Canary добавили флаг для активации жестов мыши](https://habr.com/ru/news/745524/)
 <!-- BLOG-POST-LIST:END -->
