@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [TestFlight теперь поддерживает приложения для visionOS](https://habr.com/ru/news/746570/)
 - [JetBrains представила Kotlin Notebook](https://habr.com/ru/news/746448/)
 - [Threads просит доступ к пользовательской информации о финансах, здоровье, контактах, покупках и местоположении](https://habr.com/ru/news/746278/)
 - [Spotify полностью прекращает принимать платежи через App Store](https://habr.com/ru/news/746240/)
 - [Разработчики UI-фреймворка Nova воссоздали интерфейс visionOS для Quest Pro](https://habr.com/ru/news/746228/)
-- [75% игр в Steam работает на Linux](https://habr.com/ru/news/746168/)
 <!-- BLOG-POST-LIST:END -->
