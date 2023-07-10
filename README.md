@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз игрового движка Godot 4.1 с исправлением более 900 ошибок](https://habr.com/ru/news/747086/)
 - [Mastercard представила ИИ-решение для обнаружения мошеннических операций](https://habr.com/ru/news/746656/)
 - [TestFlight теперь поддерживает приложения для visionOS](https://habr.com/ru/news/746570/)
 - [JetBrains представила Kotlin Notebook](https://habr.com/ru/news/746448/)
 - [Threads просит доступ к пользовательской информации о финансах, здоровье, контактах, покупках и местоположении](https://habr.com/ru/news/746278/)
-- [Spotify полностью прекращает принимать платежи через App Store](https://habr.com/ru/news/746240/)
 <!-- BLOG-POST-LIST:END -->
