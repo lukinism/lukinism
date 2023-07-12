@@ -34,7 +34,7 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
-- [Разработчики запустили сайт, позволяющий обновить софт старых ПК под управлением Windows 95 и 98](https://habr.com/ru/news/747382/)
+- [Энтузиасты запустили сайт, позволяющий обновить софт старых ПК под управлением Windows 95 и 98](https://habr.com/ru/news/747382/)
 - [Mozilla запустила MDN Playground — собственную версию сервиса CodePen](https://habr.com/ru/news/747286/)
 - [Состоялся релиз OpenRGB 0.9 — свободной утилиты для управления RGB-подсветкой периферии](https://habr.com/ru/news/747242/)
 - [Состоялся релиз игрового движка Godot 4.1 с исправлением более 900 ошибок](https://habr.com/ru/news/747086/)
