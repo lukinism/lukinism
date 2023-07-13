@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Менеджер паролей Apple в macOS Sonoma получил поддержку сторонних браузеров](https://habr.com/ru/news/747936/)
 - [Google тестирует NotebookLM — приложение на базе ИИ для работы с локальными текстовыми документами](https://habr.com/ru/news/747912/)
 - [Вышел почтовый клиент Thunderbird 115 Supernova](https://habr.com/ru/news/747896/)
 - [Энтузиасты запустили сайт, позволяющий обновить софт старых ПК под управлением Windows 95 и 98](https://habr.com/ru/news/747382/)
 - [Mozilla запустила MDN Playground — собственную версию сервиса CodePen](https://habr.com/ru/news/747286/)
-- [Состоялся релиз OpenRGB 0.9 — свободной утилиты для управления RGB-подсветкой периферии](https://habr.com/ru/news/747242/)
 <!-- BLOG-POST-LIST:END -->
