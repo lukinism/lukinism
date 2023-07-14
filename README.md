@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Почти половина чипов A17 Bionic и M3 выпускается с браком из-за сложности производства](https://habr.com/ru/news/748008/)
 - [Студия FireFly анонсировала Stronghold: Definitive Edition — ремейк классического симулятора замка](https://habr.com/ru/news/747980/)
 - [Шрифт Aptos заменит Calibri в качестве шрифта по умолчанию в Microsoft Office](https://habr.com/ru/news/747940/)
 - [Менеджер паролей Apple в macOS Sonoma получил поддержку сторонних браузеров](https://habr.com/ru/news/747936/)
 - [Google тестирует NotebookLM — приложение на базе ИИ для работы с локальными текстовыми документами](https://habr.com/ru/news/747912/)
-- [Вышел почтовый клиент Thunderbird 115 Supernova](https://habr.com/ru/news/747896/)
 <!-- BLOG-POST-LIST:END -->
