@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В Google Chrome для iOS появилась возможность добавлять веб-приложения на главный экран](https://habr.com/ru/news/748458/)
 - [В приложении Google Chat появилась поддержка гиперссылок](https://habr.com/ru/news/748124/)
 - [Microsoft тестирует центр искусственного интеллекта в магазине приложений Windows 11](https://habr.com/ru/news/748096/)
 - [Shutterstock расширяет сотрудничество с OpenAI для создания генеративных инструментов искусственного интеллекта](https://habr.com/ru/news/748050/)
 - [Почти половина чипов A17 Bionic и M3 выпускается с браком из-за сложности производства](https://habr.com/ru/news/748008/)
-- [Студия FireFly анонсировала Stronghold: Definitive Edition — ремейк классического симулятора замка](https://habr.com/ru/news/747980/)
 <!-- BLOG-POST-LIST:END -->
