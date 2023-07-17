@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [VMware Fusion получит полное аппаратное ускорение 3D-графики на чипах Apple Silicon](https://habr.com/ru/news/748540/)
 - [AIxploria: список ИИ-инструментов и нейросетей по категориям](https://habr.com/ru/news/748472/)
 - [В Google Chrome для iOS появилась возможность добавлять веб-приложения на главный экран](https://habr.com/ru/news/748458/)
 - [В приложении Google Chat появилась поддержка гиперссылок](https://habr.com/ru/news/748124/)
 - [Microsoft тестирует центр искусственного интеллекта в магазине приложений Windows 11](https://habr.com/ru/news/748096/)
-- [Shutterstock расширяет сотрудничество с OpenAI для создания генеративных инструментов искусственного интеллекта](https://habr.com/ru/news/748050/)
 <!-- BLOG-POST-LIST:END -->
