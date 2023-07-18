@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Инсайдеры: в октябре Apple выпустит iMac, MacBook Air и MacBook Pro на чипе M3](https://habr.com/ru/news/748734/)
 - [Microsoft тестирует поддержку двух видеопотоков в Teams](https://habr.com/ru/news/748682/)
 - [Stability AI представила Stable Doodle — нейросеть, превращающую рисунки от руки в детализированные изображения](https://habr.com/ru/news/748610/)
 - [Прикроватные часы из iPhone: обзор функции StandBy из беты iOS 17](https://habr.com/ru/news/748608/)
 - [VMware Fusion получит полное аппаратное ускорение 3D-графики на чипах Apple Silicon](https://habr.com/ru/news/748540/)
-- [AIxploria: список ИИ-инструментов и нейросетей по категориям](https://habr.com/ru/news/748472/)
 <!-- BLOG-POST-LIST:END -->
