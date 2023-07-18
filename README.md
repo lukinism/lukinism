@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Eurostar запустила биометрическую систему паспортного контроля на ЖД-рейсах Лондон-Париж](https://habr.com/ru/news/748816/)
 - [В TikTok для iOS появится поддержка технологии Passkeys для входа без пароля](https://habr.com/ru/news/748804/)
 - [Spotify представила функцию общего управления громкостью в групповых сеансах](https://habr.com/ru/news/748790/)
 - [Samsung выпустила 5K-монитор ViewFinity S9 за 1,6 тыс. долларов](https://habr.com/ru/news/748764/)
 - [Инсайдеры: в октябре Apple выпустит iMac, MacBook Air и MacBook Pro на чипе M3](https://habr.com/ru/news/748734/)
-- [Microsoft тестирует поддержку двух видеопотоков в Teams](https://habr.com/ru/news/748682/)
 <!-- BLOG-POST-LIST:END -->
