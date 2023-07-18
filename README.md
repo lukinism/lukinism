@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В TikTok для iOS появится поддержка технологии Passkeys для входа без пароля](https://habr.com/ru/news/748804/)
+- [Spotify представила функцию общего управления громкостью в групповых сеансах](https://habr.com/ru/news/748790/)
+- [Samsung выпустила 5K-монитор ViewFinity S9 за 1,6 тыс. долларов](https://habr.com/ru/news/748764/)
 - [Инсайдеры: в октябре Apple выпустит iMac, MacBook Air и MacBook Pro на чипе M3](https://habr.com/ru/news/748734/)
 - [Microsoft тестирует поддержку двух видеопотоков в Teams](https://habr.com/ru/news/748682/)
-- [Stability AI представила Stable Doodle — нейросеть, превращающую рисунки от руки в детализированные изображения](https://habr.com/ru/news/748610/)
-- [Прикроватные часы из iPhone: обзор функции StandBy из беты iOS 17](https://habr.com/ru/news/748608/)
-- [VMware Fusion получит полное аппаратное ускорение 3D-графики на чипах Apple Silicon](https://habr.com/ru/news/748540/)
 <!-- BLOG-POST-LIST:END -->
