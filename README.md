@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft тестирует поддержку двух видеопотоков в Teams](https://habr.com/ru/news/748682/)
 - [Stability AI представила Stable Doodle — нейросеть, превращающую рисунки от руки в детализированные изображения](https://habr.com/ru/news/748610/)
 - [Прикроватные часы из iPhone: обзор функции StandBy из беты iOS 17](https://habr.com/ru/news/748608/)
 - [VMware Fusion получит полное аппаратное ускорение 3D-графики на чипах Apple Silicon](https://habr.com/ru/news/748540/)
 - [AIxploria: список ИИ-инструментов и нейросетей по категориям](https://habr.com/ru/news/748472/)
-- [В Google Chrome для iOS появилась возможность добавлять веб-приложения на главный экран](https://habr.com/ru/news/748458/)
 <!-- BLOG-POST-LIST:END -->
