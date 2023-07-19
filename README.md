@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В Steam выпустили версию мода Portal: Prelude с поддержкой RTX](https://habr.com/ru/news/749014/)
 - [Сторонние разработчики Roblox смогут включать подписки в свои мини-игры](https://habr.com/ru/news/748948/)
 - [Проект AppleDB пополнили выпусками macOS начиная с Mac OS X Tiger 2005 года](https://habr.com/ru/news/748906/)
 - [OpenAI и American Journalism Project будут развивать инструменты для новостной журналистики](https://habr.com/ru/news/748834/)
 - [Eurostar запустила биометрическую систему паспортного контроля на ЖД-рейсах Лондон-Париж](https://habr.com/ru/news/748816/)
-- [В TikTok для iOS появится поддержка технологии Passkeys для входа без пароля](https://habr.com/ru/news/748804/)
 <!-- BLOG-POST-LIST:END -->
