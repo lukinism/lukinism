@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В Telegram появились истории](https://habr.com/ru/news/749476/)
 - [Apple выпустила наушники Beats Studio Pro](https://habr.com/ru/news/749318/)
 - [Оборудование IMAX до сих пор работает на базе PalmOne](https://habr.com/ru/news/749296/)
 - [Microsoft добавила в Teams AR-фильтры «виртуального макияжа» от Maybelline](https://habr.com/ru/news/749266/)
 - [Публикация Stories в Telegram на старте будет доступна только владельцам премиальной подписки](https://habr.com/ru/news/749256/)
-- [Энтузиаст разогнал Super Game Boy до 5,35 МГц](https://habr.com/ru/news/749232/)
 <!-- BLOG-POST-LIST:END -->
