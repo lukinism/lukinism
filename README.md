@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft добавила в Teams AR-фильтры «виртуального макияжа» от Maybelline](https://habr.com/ru/news/749266/)
 - [Публикация Stories в Telegram на старте будет доступна только владельцам премиальной подписки](https://habr.com/ru/news/749256/)
 - [Энтузиаст разогнал Super Game Boy до 5,35 МГц](https://habr.com/ru/news/749232/)
 - [В Steam выпустили версию мода Portal: Prelude с поддержкой RTX](https://habr.com/ru/news/749014/)
 - [Сторонние разработчики Roblox смогут включать подписки в свои мини-игры](https://habr.com/ru/news/748948/)
-- [Проект AppleDB пополнили выпусками macOS начиная с Mac OS X Tiger 2005 года](https://habr.com/ru/news/748906/)
 <!-- BLOG-POST-LIST:END -->
