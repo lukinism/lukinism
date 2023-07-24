@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [У Flipper Zero появился магазин расширений](https://habr.com/ru/news/750098/)
+- [Чат-бот Bing от Microsoft стал доступен в Chrome и Safari](https://habr.com/ru/news/750092/)
 - [Энтузиаст собрал «безопасный» отпугиватель птиц на базе Raspberry Pi](https://habr.com/ru/news/750044/)
 - [Microsoft разрешила сторонним разработчикам выпускать расширения для боковой панели Edge](https://habr.com/ru/news/749910/)
 - [В Telegram появились истории](https://habr.com/ru/news/749476/)
-- [Apple выпустила наушники Beats Studio Pro](https://habr.com/ru/news/749318/)
-- [Оборудование IMAX до сих пор работает на базе PalmOne](https://habr.com/ru/news/749296/)
 <!-- BLOG-POST-LIST:END -->
