@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Браузер Arc вышел из бета-теста и стал доступен всем пользователям](https://habr.com/ru/news/750290/)
 - [Spotify сообщила о 220 млн платных подписчиков](https://habr.com/ru/news/750272/)
 - [Microsoft работает над улучшением виртуальных рабочих столов в Windows 11](https://habr.com/ru/news/750260/)
 - [Arduino представила плату Uno R4 — обновление классической платформы](https://habr.com/ru/news/750242/)
 - [Геймер воссоздал в Minecraft Землю в масштабе 1:23 000](https://habr.com/ru/news/750212/)
-- [Google «Документы» теперь могут автоматически нумеровать строки](https://habr.com/ru/news/750160/)
 <!-- BLOG-POST-LIST:END -->
