@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Геймер воссоздал в Minecraft Землю в масштабе 1:23 000](https://habr.com/ru/news/750212/)
 - [Google «Документы» теперь могут автоматически нумеровать строки](https://habr.com/ru/news/750160/)
 - [Разработчики могут оформить заявку на комплект Apple Vision Pro DevKit](https://habr.com/ru/news/750102/)
 - [У Flipper Zero появился магазин расширений](https://habr.com/ru/news/750098/)
 - [Чат-бот Bing от Microsoft стал доступен в Chrome и Safari](https://habr.com/ru/news/750092/)
-- [Энтузиаст собрал «безопасный» отпугиватель птиц на базе Raspberry Pi](https://habr.com/ru/news/750044/)
 <!-- BLOG-POST-LIST:END -->
