@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [CD Projekt увольняет около сотни сотрудников Cyberpunk 2077 и «Ведьмака»: проекты перегружены](https://habr.com/ru/news/750562/)
+- [Google представила обновлённый Play Store для больших экранов](https://habr.com/ru/news/750548/)
 - [Apple работает над игровым режимом в iOS и iPadOS](https://habr.com/ru/news/750532/)
 - [Apple анонсировала встречи с экспертами в лабораториях Vision Pro](https://habr.com/ru/news/750516/)
 - [Обновление «Яндекс 360»: новые функции «Телемоста» и возможность защиты документов паролем](https://habr.com/ru/news/750500/)
-- [Браузер Arc вышел из бета-теста и стал доступен всем пользователям](https://habr.com/ru/news/750290/)
-- [Spotify сообщила о 220 млн платных подписчиков](https://habr.com/ru/news/750272/)
 <!-- BLOG-POST-LIST:END -->
