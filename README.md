@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Инди-разработчик Рами Исмаил опубликовал шаблон питча проектов инвесторам и издателям](https://habr.com/ru/news/750594/)
 - [CD Projekt увольняет около сотни сотрудников Cyberpunk 2077 и «Ведьмака»: проекты перегружены](https://habr.com/ru/news/750562/)
 - [Google представила обновлённый Play Store для больших экранов](https://habr.com/ru/news/750548/)
 - [Apple работает над игровым режимом в iOS и iPadOS](https://habr.com/ru/news/750532/)
 - [Apple анонсировала встречи с экспертами в лабораториях Vision Pro](https://habr.com/ru/news/750516/)
-- [Обновление «Яндекс 360»: новые функции «Телемоста» и возможность защиты документов паролем](https://habr.com/ru/news/750500/)
 <!-- BLOG-POST-LIST:END -->
