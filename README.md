@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [С весны 2024 года AppStore будет требовать объяснять использование некоторых API в коде приложений](https://habr.com/ru/news/751128/)
 - [В IDE от JetBrains появилась интеграция с GitLab](https://habr.com/ru/news/750964/)
 - [В браузере Opera GX появилась функция «Фальшивая история», подменяющая историю через 14 дней бездействия](https://habr.com/ru/news/750910/)
 - [Система Google Find My Device будет предупреждать пользователей о чужих Bluetooth-метках](https://habr.com/ru/news/750908/)
 - [Google откладывает запуск сети Find My Device, предназначенной для поиска утерянных вещей](https://habr.com/ru/news/750900/)
-- [В Photoshop beta добавили ИИ-функцию Generative Expand для генерации расширенных версий изображений](https://habr.com/ru/news/750898/)
 <!-- BLOG-POST-LIST:END -->
