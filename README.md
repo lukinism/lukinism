@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В IDE от JetBrains появилась интеграция с GitLab](https://habr.com/ru/news/750964/)
 - [В браузере Opera GX появилась функция «Фальшивая история», подменяющая историю через 14 дней бездействия](https://habr.com/ru/news/750910/)
 - [Система Google Find My Device будет предупреждать пользователей о чужих Bluetooth-метках](https://habr.com/ru/news/750908/)
 - [Google откладывает запуск сети Find My Device, предназначенной для поиска утерянных вещей](https://habr.com/ru/news/750900/)
 - [В Photoshop beta добавили ИИ-функцию Generative Expand для генерации расширенных версий изображений](https://habr.com/ru/news/750898/)
-- [Приложение Tinkerstellar для обучения Python на iPad получило поддержку iPhone](https://habr.com/ru/news/750782/)
 <!-- BLOG-POST-LIST:END -->
