@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Уязвимость в модах Minecraft позволяет хакерам удалённо выполнять произвольный код](https://habr.com/ru/news/751570/)
 - [AirTag помогла найти велосипед путешественника, потерянный авиакомпанией](https://habr.com/ru/news/751494/)
 - [С весны 2024 года AppStore будет требовать объяснять использование некоторых API в коде приложений](https://habr.com/ru/news/751128/)
 - [В IDE от JetBrains появилась интеграция с GitLab](https://habr.com/ru/news/750964/)
 - [В браузере Opera GX появилась функция «Фальшивая история», подменяющая историю через 14 дней бездействия](https://habr.com/ru/news/750910/)
-- [Система Google Find My Device будет предупреждать пользователей о чужих Bluetooth-метках](https://habr.com/ru/news/750908/)
 <!-- BLOG-POST-LIST:END -->
