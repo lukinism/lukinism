@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Браузер Edge занимает почти 11% рынка настольных браузеров в мире](https://habr.com/ru/news/751870/)
+- [Mozilla закрывает приложение Pocket для Mac](https://habr.com/ru/news/751868/)
 - [Microsoft открыла продажу запчастей для самостоятельного ремонта контроллеров Xbox](https://habr.com/ru/news/751866/)
 - [Сервис телемедицины от Amazon теперь доступен на всей территории США](https://habr.com/ru/news/751864/)
 - [8BitDo представила механические клавиатуры в стиле ретроконсолей](https://habr.com/ru/news/751842/)
-- [Инженер спроектировал зарядный кейс для AirPods Pro, облегчающий ремонт гаджета](https://habr.com/ru/news/751828/)
-- [Pixar, Adobe, Apple, Autodesk и Nvidia объединяют усилия для стандартизации OpenUSD](https://habr.com/ru/news/751814/)
 <!-- BLOG-POST-LIST:END -->
