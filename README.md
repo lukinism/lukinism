@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В текстовом редакторе Ulysses для iOS и macOS появилась поддержка LaTeX](https://habr.com/ru/news/751730/)
 - [Android-разработчики могут тестировать в своих проектах компилятор K2](https://habr.com/ru/news/751678/)
 - [Уязвимость в модах Minecraft позволяет хакерам удалённо выполнять произвольный код](https://habr.com/ru/news/751570/)
 - [AirTag помогла найти велосипед путешественника, потерянный авиакомпанией](https://habr.com/ru/news/751494/)
 - [С весны 2024 года AppStore будет требовать объяснять использование некоторых API в коде приложений](https://habr.com/ru/news/751128/)
-- [В IDE от JetBrains появилась интеграция с GitLab](https://habr.com/ru/news/750964/)
 <!-- BLOG-POST-LIST:END -->
