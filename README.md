@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [8BitDo представила механические клавиатуры в стиле ретроконсолей](https://habr.com/ru/news/751842/)
 - [Инженер спроектировал зарядный кейс для AirPods Pro, облегчающий ремонт гаджета](https://habr.com/ru/news/751828/)
 - [Pixar, Adobe, Apple, Autodesk и Nvidia объединяют усилия для стандартизации OpenUSD](https://habr.com/ru/news/751814/)
 - [Обновлённый логотип Twitter на крыше штаб-квартиры в Сан-Франциско демонтировали из-за жалоб местных жителей](https://habr.com/ru/news/751758/)
 - [X &lpar;Twitter&rpar; запустила программу монетизации для авторов контента с подпиской X Blue](https://habr.com/ru/news/751750/)
-- [В текстовом редакторе Ulysses для iOS и macOS появилась поддержка LaTeX](https://habr.com/ru/news/751730/)
 <!-- BLOG-POST-LIST:END -->
