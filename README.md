@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pixar, Adobe, Apple, Autodesk и Nvidia объединяют усилия для стандартизации OpenUSD](https://habr.com/ru/news/751814/)
 - [Обновлённый логотип Twitter на крыше штаб-квартиры в Сан-Франциско демонтировали из-за жалоб местных жителей](https://habr.com/ru/news/751758/)
 - [X &lpar;Twitter&rpar; запустила программу монетизации для авторов контента с подпиской X Blue](https://habr.com/ru/news/751750/)
 - [В текстовом редакторе Ulysses для iOS и macOS появилась поддержка LaTeX](https://habr.com/ru/news/751730/)
 - [Android-разработчики могут тестировать в своих проектах компилятор K2](https://habr.com/ru/news/751678/)
-- [Уязвимость в модах Minecraft позволяет хакерам удалённо выполнять произвольный код](https://habr.com/ru/news/751570/)
 <!-- BLOG-POST-LIST:END -->
