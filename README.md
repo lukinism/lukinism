@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи Xbox смогут транслировать свой экран в Discord](https://habr.com/ru/news/752370/)
 - [Spotify запустила закрытый бета-тест Confidence — платформы для A/B-тестирования и экспериментирования с продуктом](https://habr.com/ru/news/752358/)
 - [Shortcuts в iOS 17 позволяет создавать ярлыки с выбором режимов камеры](https://habr.com/ru/news/752348/)
 - [Лаборатория Vision Pro для разработчиков в США оказалась менее популярной, чем ожидалось](https://habr.com/ru/news/752332/)
 - [Состоялся релиз Firefox 116: буфер обмена для файлов и прекращение поддержки устаревших ОС](https://habr.com/ru/news/752290/)
-- [В бета-версии Windows Subsystem for Android появилась поддержка графического API Vulkan](https://habr.com/ru/news/752228/)
 <!-- BLOG-POST-LIST:END -->
