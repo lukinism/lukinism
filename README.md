@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик-энтузиаст представил макетную плату, которой не нужны соединительные провода](https://habr.com/ru/news/752426/)
 - [В Figma появилась поддержка цветового пространства P3](https://habr.com/ru/news/752394/)
 - [Nothing анонсировала CMF — бренд бюджетных смартфонов и гаджетов](https://habr.com/ru/news/752392/)
 - [Пользователи Xbox смогут транслировать свой экран в Discord](https://habr.com/ru/news/752370/)
 - [Spotify запустила закрытый бета-тест Confidence — платформы для A/B-тестирования и экспериментирования с продуктом](https://habr.com/ru/news/752358/)
-- [Shortcuts в iOS 17 позволяет создавать ярлыки с выбором режимов камеры](https://habr.com/ru/news/752348/)
 <!-- BLOG-POST-LIST:END -->
