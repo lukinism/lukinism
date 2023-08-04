@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft разрабатывает утилиту для синхронизации подсветки клавиатуры с акцентным цветом Windows](https://habr.com/ru/news/752590/)
 - [Энтузиаст приспособил Raspberry Pi для игры на церковном органе](https://habr.com/ru/news/752550/)
 - [Плата Arduino Nano ESP32 получила поддержку облачной платформы Arduino Cloud](https://habr.com/ru/news/752518/)
 - [GitHub Copilot теперь показывает ссылки на фрагменты кода, предложенные из других репозиториев](https://habr.com/ru/news/752492/)
 - [Разработчик-энтузиаст представил макетную плату, которой не нужны соединительные провода](https://habr.com/ru/news/752426/)
-- [В Figma появилась поддержка цветового пространства P3](https://habr.com/ru/news/752394/)
 <!-- BLOG-POST-LIST:END -->
