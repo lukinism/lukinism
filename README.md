@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики из DevDojo открыли код UI-библиотеки Pines, основанной на Alpine и Tailwind](https://habr.com/ru/news/753046/)
 - [Microsoft разрабатывает утилиту для синхронизации подсветки клавиатуры с акцентным цветом Windows](https://habr.com/ru/news/752590/)
 - [Энтузиаст приспособил Raspberry Pi для игры на церковном органе](https://habr.com/ru/news/752550/)
 - [Плата Arduino Nano ESP32 получила поддержку облачной платформы Arduino Cloud](https://habr.com/ru/news/752518/)
 - [GitHub Copilot теперь показывает ссылки на фрагменты кода, предложенные из других репозиториев](https://habr.com/ru/news/752492/)
-- [Разработчик-энтузиаст представил макетную плату, которой не нужны соединительные провода](https://habr.com/ru/news/752426/)
 <!-- BLOG-POST-LIST:END -->
