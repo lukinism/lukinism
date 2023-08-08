@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stability AI представила StableCode — нейросеть для генерации кода](https://habr.com/ru/news/753396/)
 - [Atlassian начнёт отключать от своих сервисов учётные записи, зарегистрированные в России и Беларуси](https://habr.com/ru/news/753384/)
 - [Исследователям безопасности удалось распознать текст по звуку щелчков клавиатуры](https://habr.com/ru/news/753138/)
 - [Разработчики из DevDojo открыли код UI-библиотеки Pines, основанной на Alpine и Tailwind](https://habr.com/ru/news/753046/)
 - [Microsoft разрабатывает утилиту для синхронизации подсветки клавиатуры с акцентным цветом Windows](https://habr.com/ru/news/752590/)
-- [Энтузиаст приспособил Raspberry Pi для игры на церковном органе](https://habr.com/ru/news/752550/)
 <!-- BLOG-POST-LIST:END -->
