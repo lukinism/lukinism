@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик-энтузиаст представил проект карты GitHub](https://habr.com/ru/news/753598/)
 - [Разработчики веб-сайтов теперь могут запретить боту GPTBot от OpenAI посещать сайт](https://habr.com/ru/news/753406/)
 - [Google анонсировала Project IDX — облачную IDE на базе VS Code с искусственным интеллектом](https://habr.com/ru/news/753400/)
 - [Stability AI представила StableCode — нейросеть для генерации кода](https://habr.com/ru/news/753396/)
 - [Atlassian начнёт отключать от своих сервисов учётные записи, зарегистрированные в России и Беларуси](https://habr.com/ru/news/753384/)
-- [Исследователям безопасности удалось распознать текст по звуку щелчков клавиатуры](https://habr.com/ru/news/753138/)
 <!-- BLOG-POST-LIST:END -->
