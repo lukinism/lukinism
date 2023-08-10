@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики среды виртуализации UTM запустили Windows XP на гарнитуре Apple Vision Pro](https://habr.com/ru/news/753684/)
 - [Google представила Jetpack Emoji Picker — библиотеку для добавления в приложения возможности выбора эмодзи](https://habr.com/ru/news/753668/)
 - [JetBrains выпустила обновлённый менеджер Toolbox 2.0](https://habr.com/ru/news/753666/)
 - [Состоялся релиз утилиты Whisky для macOS, позволяющей быстро запускать игры из Steam](https://habr.com/ru/news/753662/)
 - [Исследователи безопасности обнаружили, что расширения для VS Code могут красть пользовательские токены аутентификации](https://habr.com/ru/news/753652/)
-- [Разработчик-энтузиаст представил проект карты GitHub](https://habr.com/ru/news/753598/)
 <!-- BLOG-POST-LIST:END -->
