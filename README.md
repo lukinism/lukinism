@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [В Spotify появилась интеграция с Patreon, позволяющая создателям контента добавлять закрытые выпуски подкастов](https://habr.com/ru/news/753740/)
 - [Состоялся релиз набора инструментов Jetpack Compose 1.5](https://habr.com/ru/news/753734/)
 - [В браузере Microsoft Edge можно будет экспортировать историю в CSV](https://habr.com/ru/news/753696/)
 - [Разработчики среды виртуализации UTM запустили Windows XP на гарнитуре Apple Vision Pro](https://habr.com/ru/news/753684/)
 - [Google представила Jetpack Emoji Picker — библиотеку для добавления в приложения возможности выбора эмодзи](https://habr.com/ru/news/753668/)
-- [JetBrains выпустила обновлённый менеджер Toolbox 2.0](https://habr.com/ru/news/753666/)
 <!-- BLOG-POST-LIST:END -->
