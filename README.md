@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [VK приняла решение о перерегистрации с Британских Виргинских островов в Россию](https://habr.com/ru/news/754038/)
 - [8BitDo выпустила ресивер для PS1 и PS2, позволяющий подключать к консолям беспроводные контроллеры](https://habr.com/ru/news/753764/)
 - [В Spotify появилась интеграция с Patreon, позволяющая создателям контента добавлять закрытые выпуски подкастов](https://habr.com/ru/news/753740/)
 - [Состоялся релиз набора инструментов Jetpack Compose 1.5](https://habr.com/ru/news/753734/)
 - [В браузере Microsoft Edge можно будет экспортировать историю в CSV](https://habr.com/ru/news/753696/)
-- [Разработчики среды виртуализации UTM запустили Windows XP на гарнитуре Apple Vision Pro](https://habr.com/ru/news/753684/)
 <!-- BLOG-POST-LIST:END -->
