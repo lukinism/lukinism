@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление Goodnote 6 — популярного приложения для рукописных заметок на iPad](https://habr.com/ru/news/754480/)
 - [Истории в Telegram станут доступны всем пользователям, но с ограничениями по количеству публикаций](https://habr.com/ru/news/754442/)
 - [JetBrains представила Ask AI — генеративную нейросеть для работы с данными в Datalore](https://habr.com/ru/news/754420/)
 - [Firefox для Android получит поддержку десктопных браузерных расширений](https://habr.com/ru/news/754138/)
 - [Разработчик выпустил браузерную версию классической игры Wipeout](https://habr.com/ru/news/754130/)
-- [VK приняла решение о перерегистрации с Британских Виргинских островов в Россию](https://habr.com/ru/news/754038/)
 <!-- BLOG-POST-LIST:END -->
