@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [JetBrains представила Ask AI — генеративную нейросеть для работы с данными в Datalore](https://habr.com/ru/news/754420/)
 - [Firefox для Android получит поддержку десктопных браузерных расширений](https://habr.com/ru/news/754138/)
 - [Разработчик выпустил браузерную версию классической игры Wipeout](https://habr.com/ru/news/754130/)
 - [VK приняла решение о перерегистрации с Британских Виргинских островов в Россию](https://habr.com/ru/news/754038/)
 - [8BitDo выпустила ресивер для PS1 и PS2, позволяющий подключать к консолям беспроводные контроллеры](https://habr.com/ru/news/753764/)
-- [В Spotify появилась интеграция с Patreon, позволяющая создателям контента добавлять закрытые выпуски подкастов](https://habr.com/ru/news/753740/)
 <!-- BLOG-POST-LIST:END -->
