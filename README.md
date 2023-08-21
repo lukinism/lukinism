@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
-- [Xiaomi представила робособаку CyberDog 2](https://habr.com/ru/news/754556/)
-- [Вышли стабильные версии библиотек Compose 1.2 и Tiles 1.2 для Wear OS](https://habr.com/ru/news/754544/)
-- [Вышло обновление Goodnote 6 — популярного приложения для рукописных заметок на iPad](https://habr.com/ru/news/754480/)
-- [Истории в Telegram станут доступны всем пользователям, но с ограничениями по количеству публикаций](https://habr.com/ru/news/754442/)
-- [JetBrains представила Ask AI — генеративную нейросеть для работы с данными в Datalore](https://habr.com/ru/news/754420/)
+- [Итоги конференции Figma Config 2023](https://habr.com/ru/articles/746056/?utm_campaign=746056&utm_source=habrahabr&utm_medium=rss)
+- [GUI для Git: подборка популярных решений](https://habr.com/ru/articles/741016/?utm_campaign=741016&utm_source=habrahabr&utm_medium=rss)
+- [Kickstarter-дайджест: интересные стартапы за начало июня](https://habr.com/ru/articles/739480/?utm_campaign=739480&utm_source=habrahabr&utm_medium=rss)
+- [Дайджест новостей из мира программирования #2](https://habr.com/ru/articles/732580/?utm_campaign=732580&utm_source=habrahabr&utm_medium=rss)
+- [Kickstarter-дайджест: интересные стартапы за конец апреля](https://habr.com/ru/articles/731456/?utm_campaign=731456&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
