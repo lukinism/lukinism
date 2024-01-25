@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Приложения для Vision Pro выглядят скучно](https://habr.com/ru/articles/789024/?utm_campaign=789024&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Адаптируем иконку вашего приложения для visionOS](https://habr.com/ru/articles/786836/?utm_campaign=786836&utm_source=habrahabr&utm_medium=rss)
 - [Делаем плавную прокрутку для сторонней мыши в macOS](https://habr.com/ru/articles/785314/?utm_campaign=785314&utm_source=habrahabr&utm_medium=rss)
 - [Интервью с Валентином Бартеневым: как бывшие сотрудники Nginx разрабатывают отечественный веб-сервер Angie](https://habr.com/ru/articles/774274/?utm_campaign=774274&utm_source=habrahabr&utm_medium=rss)
 - [Итоги конференции Figma Config 2023](https://habr.com/ru/articles/746056/?utm_campaign=746056&utm_source=habrahabr&utm_medium=rss)
-- [GUI для Git: подборка популярных решений](https://habr.com/ru/articles/741016/?utm_campaign=741016&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
