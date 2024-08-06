@@ -34,9 +34,9 @@ gmail: admin@botfox.ru**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Смотрим на обновлённые умные колонки SberBoom](https://habr.com/ru/articles/834302/?utm_campaign=834302&utm_source=habrahabr&utm_medium=rss)
 - [Обзор ноутбука Inferit Silver](https://habr.com/ru/articles/831176/?utm_campaign=831176&utm_source=habrahabr&utm_medium=rss)
 - [Побывали на Young Con: все сервисы «Яндекса» под одной крышей для тех, кто хочет стажироваться в бигтехе](https://habr.com/ru/articles/825420/?utm_campaign=825420&utm_source=habrahabr&utm_medium=rss)
 - [Да будет свет: обзор светодиодной ленты и умной розетки с Matter от «Яндекса»](https://habr.com/ru/articles/823912/?utm_campaign=823912&utm_source=habrahabr&utm_medium=rss)
 - [[Перевод] Разбираемся с типографикой в visionOS](https://habr.com/ru/articles/818107/?utm_campaign=818107&utm_source=habrahabr&utm_medium=rss)
-- [realme 12 Pro — продвинутые камеры и приятная оболочка](https://habr.com/ru/articles/805489/?utm_campaign=805489&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
