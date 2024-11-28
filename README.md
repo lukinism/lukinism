@@ -35,6 +35,6 @@ gmail: admin@botfox.ru**
 - [Лампочки, выключатели, реле: смотрим на обновлённую линейку умных гаджетов от «Яндекса»](https://habr.com/ru/articles/859622/?utm_campaign=859622&utm_source=habrahabr&utm_medium=rss)
 - [Презентация Made By Google: представили линейку Pixel 9, Pixel Watch 3 и наушники Pixel Buds Pro 2](https://habr.com/ru/articles/835836/?utm_campaign=835836&utm_source=habrahabr&utm_medium=rss)
 - [Смотрим на обновлённые умные колонки SberBoom](https://habr.com/ru/articles/834302/?utm_campaign=834302&utm_source=habrahabr&utm_medium=rss)
-- [Обзор ноутбука Inferit Silver](https://habr.com/ru/articles/831176/?utm_campaign=831176&utm_source=habrahabr&utm_medium=rss)
 - [Побывали на Young Con: все сервисы «Яндекса» под одной крышей для тех, кто хочет стажироваться в бигтехе](https://habr.com/ru/articles/825420/?utm_campaign=825420&utm_source=habrahabr&utm_medium=rss)
+- [Да будет свет: обзор светодиодной ленты и умной розетки с Matter от «Яндекса»](https://habr.com/ru/articles/823912/?utm_campaign=823912&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
