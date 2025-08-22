@@ -28,7 +28,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ___
 ## Contact with me:
 **tg: [@lukinism](https://t.me/lukinism)  
-gmail: admin@botfox.ru**
+gmail: lukinism69@gmail.com**
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
