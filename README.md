@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Lukinism!;%E2%80%89 Backend+Developer+%7C+PHP+%7C+Go+%7C+Python;Building+clean+%26+fast+systems+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=00F5FF&center=true&vCenter=true&width=750&lines=Hey%2C%20I%27m%20Lukinism!;%E2%80%89Backend%20Developer%20%7C%20PHP%20%7C%20Go%20%7C%20Python;Building%20clean%20%26%20fast%20systems%20%E2%9A%99%EF%B8%8F&cacheBust=3" alt="Typing SVG" />
 </p>
-
-
-
-
 
 ---
 
