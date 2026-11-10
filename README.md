@@ -71,9 +71,9 @@ ___
 
 ## Latest Habr Posts
 <!-- BLOG-POST-LIST:START -->
+- [Для камер Canon выпустили кастомную прошивку с пресетами цветокоррекции в стиле популярных плёнок](https://habr.com/ru/articles/1106256/?utm_campaign=1106256&utm_source=habrahabr&utm_medium=rss)
 - [Creality выпустила mBox — детский 3D‑принтер со встроенными AI‑инструментами для генерации моделей](https://habr.com/ru/articles/1106184/?utm_campaign=1106184&utm_source=habrahabr&utm_medium=rss)
 - [Rockstar продаёт реальный спортивный автомобиль Grotti Cheetah из GTA VI](https://habr.com/ru/articles/1105858/?utm_campaign=1105858&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI и ModRetro выпустили портативную консоль для запуска игр, созданных с помощью Codex](https://habr.com/ru/articles/1105766/?utm_campaign=1105766&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: во сколько обходится AI‑разработка сайта в зависимости от используемых JavaScript‑фреймворков](https://habr.com/ru/articles/1105740/?utm_campaign=1105740&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи MacBook Pro с OLED‑экраном жалуются на усталость глаз и тошноту при работе с ним](https://habr.com/ru/articles/1105282/?utm_campaign=1105282&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
